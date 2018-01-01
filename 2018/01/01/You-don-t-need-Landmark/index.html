@@ -78,7 +78,7 @@
 <link href="/css/main.css?v=5.1.2" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="Writing,Buddhism,Landmark," />
+  <meta name="keywords" content="Landmark,Writing,Buddhism," />
 
 
 
@@ -95,7 +95,7 @@
 
 
 <meta name="description" content="You Don’t Need LandmarkBelieving he was missing something essential in his life, a friend asked me to lend him $665 to attend a Landmark weekend, but instead I suggested an alternative. I offered to h">
-<meta name="keywords" content="Writing,Buddhism,Landmark">
+<meta name="keywords" content="Landmark,Writing,Buddhism">
 <meta property="og:type" content="article">
 <meta property="og:title" content="You don&#39;t need Landmark">
 <meta property="og:url" content="http://aurelianonava.com/2018/01/01/You-don-t-need-Landmark/index.html">
@@ -357,8 +357,8 @@
                 
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Religion/" itemprop="url" rel="index">
-                    <span itemprop="name">Religion</span>
+                  <a href="/categories/Self-Improvement/" itemprop="url" rel="index">
+                    <span itemprop="name">Self-Improvement</span>
                   </a>
                 </span>
 
@@ -368,8 +368,8 @@
                 
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Self-Improvement/" itemprop="url" rel="index">
-                    <span itemprop="name">Self-Improvement</span>
+                  <a href="/categories/Religion/" itemprop="url" rel="index">
+                    <span itemprop="name">Religion</span>
                   </a>
                 </span>
 
@@ -391,6 +391,17 @@
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/01/01/You-don-t-need-Landmark/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="2018/01/01/You-don-t-need-Landmark/" itemprop="commentCount"></span>
+                </a>
+              </span>
             
           
 
@@ -446,11 +457,11 @@
       
         <div class="post-tags">
           
+            <a href="/tags/Landmark/" rel="tag"># Landmark</a>
+          
             <a href="/tags/Writing/" rel="tag"># Writing</a>
           
             <a href="/tags/Buddhism/" rel="tag"># Buddhism</a>
-          
-            <a href="/tags/Landmark/" rel="tag"># Landmark</a>
           
         </div>
       
@@ -500,6 +511,13 @@
 
           
   <div class="comments" id="comments">
+    
+      <div id="disqus_thread">
+        <noscript>
+          Please enable JavaScript to view the
+          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+      </div>
     
   </div>
 
@@ -636,23 +654,6 @@
 </div>
 
 
-<% if (config.disqus_shortname){ %>
-<script>
-  var disqus_shortname = '<%= config.disqus_shortname %>';
-  <% if (page.permalink){ %>
-  var disqus_url = '<%= config.url +"/"+ page.path %>';
-  <% } %>
-  (function(){
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments) { %>embed.js<% } else { %>count.js<% } %>';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-<% } %>
-
-
 
 <div class="powered-by">
   Powered by <a class="theme-link" href="https://hexo.io">Hexo</a>
@@ -759,14 +760,30 @@
 
   
 
+    
+      <script id="dsq-count-scr" src="https://aurelianonava-com.disqus.com/count.js" async></script>
+    
 
-
-
-
-
-
+    
+      <script type="text/javascript">
+        var disqus_config = function () {
+          this.page.url = 'http://aurelianonava.com/2018/01/01/You-don-t-need-Landmark/';
+          this.page.identifier = '2018/01/01/You-don-t-need-Landmark/';
+          this.page.title = 'You don\'t need Landmark';
+        };
+        var d = document, s = d.createElement('script');
+        s.src = 'https://aurelianonava-com.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', '' + +new Date());
+        (d.head || d.body).appendChild(s);
+      </script>
+    
 
   
+
+
+
+
+
 
 
 

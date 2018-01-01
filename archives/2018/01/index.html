@@ -447,23 +447,6 @@
 </div>
 
 
-<% if (config.disqus_shortname){ %>
-<script>
-  var disqus_shortname = '<%= config.disqus_shortname %>';
-  <% if (page.permalink){ %>
-  var disqus_url = '<%= config.url +"/"+ page.path %>';
-  <% } %>
-  (function(){
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments) { %>embed.js<% } else { %>count.js<% } %>';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-<% } %>
-
-
 
 <div class="powered-by">
   Powered by <a class="theme-link" href="https://hexo.io">Hexo</a>
@@ -572,14 +555,18 @@
 
   
 
+    
+      <script id="dsq-count-scr" src="https://aurelianonava-com.disqus.com/count.js" async></script>
+    
 
-
-
-
-
-
+    
 
   
+
+
+
+
+
 
 
 

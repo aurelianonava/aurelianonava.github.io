@@ -356,8 +356,8 @@
                 
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Religion/" itemprop="url" rel="index">
-                    <span itemprop="name">Religion</span>
+                  <a href="/categories/Self-Improvement/" itemprop="url" rel="index">
+                    <span itemprop="name">Self-Improvement</span>
                   </a>
                 </span>
 
@@ -367,8 +367,8 @@
                 
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Self-Improvement/" itemprop="url" rel="index">
-                    <span itemprop="name">Self-Improvement</span>
+                  <a href="/categories/Religion/" itemprop="url" rel="index">
+                    <span itemprop="name">Religion</span>
                   </a>
                 </span>
 
@@ -390,6 +390,17 @@
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2018/01/01/You-don-t-need-Landmark/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="2018/01/01/You-don-t-need-Landmark/" itemprop="commentCount"></span>
+                </a>
+              </span>
             
           
 
@@ -543,17 +554,6 @@
                 
               
                 <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/Buddhism/Suffering/" itemprop="url" rel="index">
-                    <span itemprop="name">Suffering</span>
-                  </a>
-                </span>
-
-                
-                
-                  , 
-                
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
                   <a href="/categories/Religion/" itemprop="url" rel="index">
                     <span itemprop="name">Religion</span>
                   </a>
@@ -572,11 +572,33 @@
 
                 
                 
+                  , 
+                
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Buddhism/Suffering/" itemprop="url" rel="index">
+                    <span itemprop="name">Suffering</span>
+                  </a>
+                </span>
+
+                
+                
               
             </span>
           
 
           
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/2017/12/26/say-more/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="2017/12/26/say-more/" itemprop="commentCount"></span>
+                </a>
+              </span>
             
           
 
@@ -759,23 +781,6 @@
 </div>
 
 
-<% if (config.disqus_shortname){ %>
-<script>
-  var disqus_shortname = '<%= config.disqus_shortname %>';
-  <% if (page.permalink){ %>
-  var disqus_url = '<%= config.url +"/"+ page.path %>';
-  <% } %>
-  (function(){
-    var dsq = document.createElement('script');
-    dsq.type = 'text/javascript';
-    dsq.async = true;
-    dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments) { %>embed.js<% } else { %>count.js<% } %>';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-  })();
-</script>
-<% } %>
-
-
 
 <div class="powered-by">
   Powered by <a class="theme-link" href="https://hexo.io">Hexo</a>
@@ -882,14 +887,18 @@
 
   
 
+    
+      <script id="dsq-count-scr" src="https://aurelianonava-com.disqus.com/count.js" async></script>
+    
 
-
-
-
-
-
+    
 
   
+
+
+
+
+
 
 
 
