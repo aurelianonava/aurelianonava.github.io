@@ -427,39 +427,41 @@
 
 
 <p>###a player</p>
-<div id="aplayer-EFMGkVND" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-				<pre class="aplayer-lrc-content">[00:00.00]lrc here</pre>
-			</div>
-			<script>
-				var ap = new APlayer({
-					element: document.getElementById("aplayer-EFMGkVND"),
-					narrow: false,
-					autoplay: true,
-					showlrc: 2,
-					music: {
-						title: "title",
-						author: "Aureliano Nava",
-						url: "TRK1-04.wav",
-						pic: "",
-					}
-				});
-				window.aplayers || (window.aplayers = []);
-				window.aplayers.push(ap);
-			</script>
 
-        <div id="aplayer-seqhcOPh" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+        <div id="aplayer-qeOrQQBL" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
             <pre class="aplayer-lrc-content"></pre>
         </div>
         <script>
           var ap = new APlayer({
-            element: document.getElementById("aplayer-seqhcOPh"),
+            element: document.getElementById("aplayer-qeOrQQBL"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "title",
+              author: "Aureliano Nava",
+              url: "/2018/05/13/my-audio/0512-2018_01.mp3",
+              pic: "",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+
+        <div id="aplayer-RFOPScSB" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-RFOPScSB"),
             narrow: false,
             autoplay: false,
             showlrc: false,
             music: {
               title: "title",
               author: "Aureliano Nava m4a",
-              url: "0512-2018_01.m4a",
+              url: "/2018/05/13/my-audio/0512-2018_01.m4a",
               pic: "",
               lrc: ""
             }
@@ -467,30 +469,13 @@
           window.aplayers || (window.aplayers = []);
           window.aplayers.push(ap);
         </script>
+<p>Other: </p>
+<audio controls><br>  <source src="/2018/05/13/my-audio/0512-2018_01.mp3"><br></audio>
 
-        <div id="aplayer-OwyDZBfU" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
-            <pre class="aplayer-lrc-content"></pre>
-        </div>
-        <script>
-          var ap = new APlayer({
-            element: document.getElementById("aplayer-OwyDZBfU"),
-            narrow: false,
-            autoplay: false,
-            showlrc: false,
-            music: {
-              title: "title",
-              author: "Aureliano Nava 0512-2018_01.mp3",
-              url: "0512-2018_01.mp3",
-              pic: "",
-              lrc: ""
-            }
-          });
-          window.aplayers || (window.aplayers = []);
-          window.aplayers.push(ap);
-        </script>
-<audio controls><br>  <source src="0512-2018_01.mp3"><br></audio>
+<audio src="/2018/05/13/my-audio/0512-2018_01.mp3" controls preload=""></audio>
 
-<audio src="0512-2018_01.mp3" controls preload=""></audio>
+<p>###m4a:</p>
+<audio src="/2018/05/13/my-audio/0512-2018_01.m4a" controls preload=""></audio>
 
 
           
