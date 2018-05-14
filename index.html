@@ -163,6 +163,8 @@
 
 
 
+<link rel="stylesheet" href="http://xxx/aplayer.min.css" class="aplayer-style-marker">
+<script src="http://xxx/aplayer.min.js" class="aplayer-script-marker"></script>
 </head>
 
 <body itemscope itemtype="http://schema.org/WebPage" lang="en">
@@ -420,24 +422,72 @@
           
             <p>###Audio File</p>
 
-
-<audio controls>
-  <source src="{% asset_path TRK1-04.wav %}" type="audio/m4a">
-</audio>
+<audio controls><br>  <source src="/2018/05/13/my-audio/TRK1-04.wav" type="audio/m4a"><br></audio>
 
 
-<audio controls>
-  <source src="0512-2018_01.m4a" type="audio/m4a">
-</audio>
+<p>###a player</p>
+<div id="aplayer-sjtsaUcF" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+				<pre class="aplayer-lrc-content">[00:00.00]lrc here</pre>
+			</div>
+			<script>
+				var ap = new APlayer({
+					element: document.getElementById("aplayer-sjtsaUcF"),
+					narrow: false,
+					autoplay: true,
+					showlrc: 2,
+					music: {
+						title: "title",
+						author: "Aureliano Nava",
+						url: "TRK1-04.wav",
+						pic: "",
+					}
+				});
+				window.aplayers || (window.aplayers = []);
+				window.aplayers.push(ap);
+			</script>
 
-<audio controls>
-  <source src="TRK1-04.wav" type="audio/wav">
-</audio>
+        <div id="aplayer-oHdJEPzA" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-oHdJEPzA"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "title",
+              author: "Aureliano Nava m4a",
+              url: "0512-2018_01.m4a",
+              pic: "",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
 
-/2018/05/13/my-audio/0512-2018_01.m4a
-<audio controls><br>  /2018/05/13/my-audio/TRK1-04.wav<br></audio>
-
-
+        <div id="aplayer-JQnSpxQW" class="aplayer aplayer-tag-marker" style="margin-bottom: 20px;">
+            <pre class="aplayer-lrc-content"></pre>
+        </div>
+        <script>
+          var ap = new APlayer({
+            element: document.getElementById("aplayer-JQnSpxQW"),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: "title",
+              author: "Aureliano Nava 0512-2018_01.mp3",
+              url: "0512-2018_01.mp3",
+              pic: "",
+              lrc: ""
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        </script>
+<audio controls><br>  <source src="0512-2018_01.mp3"><br></audio>
           
         
       
