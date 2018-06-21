@@ -12,8 +12,8 @@
       <itunes:email>ITUNES-EMAIL</itunes:email>
     </itunes:owner>
     <itunes:image href="http://aurelianonava.com" />
-    <itunes:category text="CATEGORY">
-      <itunes:category text="CATEGORY" />
+    <itunes:category text="Buddhism">
+      <itunes:category text="Buddhism" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <language>en</language>
@@ -26,7 +26,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-SblUgIDK&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-AjXCZtor&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -45,8 +45,8 @@
       <itunes:author> Aureliano Nava</itunes:author>
       <itunes:subtitle> Fearless in Depression</itunes:subtitle>
       <itunes:summary>  </itunes:summary>
-      <itunes:image href="https://aurelianonava.github.iohttps://github.com/aurelianonava/aurelianonava.github.io/blob/master/viva-la-liberacion.jpg" />
-      <enclosure url="https://aurelianonava.github.iohttps://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="" type=""/>
+      <itunes:image href="https://github.com/aurelianonava/aurelianonava.github.io/blob/master/viva-la-liberacion.jpg" />
+      <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 14 Jun 2018 20:43:33 GMT</pubDate>
       <itunes:duration></itunes:duration>
