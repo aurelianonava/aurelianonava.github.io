@@ -8,12 +8,12 @@
     <itunes:author>Aureliano Nava</itunes:author>
     <itunes:summary>The Human Condition</itunes:summary>
     <itunes:owner>
-      <itunes:name>ITUNES-OWNER</itunes:name>
-      <itunes:email>ITUNES-EMAIL</itunes:email>
+      <itunes:name>Aureliano Nava</itunes:name>
+      <itunes:email>sersinfin@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://aurelianonava.com" />
-    <itunes:category text="CATEGORY">
-      <itunes:category text="CATEGORY" />
+    <itunes:category text="categories">
+      <itunes:category text="categories" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <language>en</language>
