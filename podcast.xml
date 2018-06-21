@@ -11,7 +11,7 @@
       <itunes:name>ITUNES-OWNER</itunes:name>
       <itunes:email>ITUNES-EMAIL</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://aurelianonava.com" />
+    <itunes:image href="http://aurelianonava.comviva-la-liberacion.jpg" />
     <itunes:category text="Buddhism">
       <itunes:category text="Buddhism" />
     </itunes:category>
@@ -26,7 +26,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-OikYDsRN&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-vAgkgpPw&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
