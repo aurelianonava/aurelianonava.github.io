@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Train Mind</title>
+    <link>http://aurelianonava.com/</link>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>The Human Condition</description>
+    <pubDate>Thu, 21 Jun 2018 16:45:50 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Anthony Bourdain and Ourselves</title>
+      <link>http://aurelianonava.com/2018/06/14/Anthony-Bourdain-and-Ourselves/</link>
+      <guid>http://aurelianonava.com/2018/06/14/Anthony-Bourdain-and-Ourselves/</guid>
+      <pubDate>Fri, 15 Jun 2018 03:43:33 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+          
+        
+      
+      </description>
+      
+      <comments>http://aurelianonava.com/2018/06/14/Anthony-Bourdain-and-Ourselves/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Say More</title>
+      <link>http://aurelianonava.com/2018/01/01/say-more/</link>
+      <guid>http://aurelianonava.com/2018/01/01/say-more/</guid>
+      <pubDate>Mon, 01 Jan 2018 16:15:38 GMT</pubDate>
+      <description>
+      
+        &lt;p&gt;What can one possibly write about when so much has been said already about a topic? One can stay silent, or one can write and add to what so many are eloquently covering.&lt;br&gt;
+      
+      </description>
+      
+      <comments>http://aurelianonava.com/2018/01/01/say-more/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
