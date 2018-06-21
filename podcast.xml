@@ -12,11 +12,48 @@
       <itunes:email>sersinfin@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="http://aurelianonava.com" />
-    <itunes:category text="CATEGORIES">
-      <itunes:category text="CATEGORIES" />
+    <itunes:category text="Buddhism">
+      <itunes:category text="Buddhism" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <language>en</language>
+    
+    <item>
+      <title>Anthony Bourdain and Ourselves</title>
+      <description> Anthony Bourdain and Ourselves – Depression; Addiction; Stimulus-Response; Buddhism; Meditation; Suicide; Nidanas;
+        
+            
+        
+        
+          var ap = new APlayer({
+            element: document.getElementById(&amp;quot;aplayer-ZHAIvbgY&amp;quot;),
+            narrow: false,
+            autoplay: false,
+            showlrc: false,
+            music: {
+              title: &amp;quot;Anthony Bourdain and Ourselves: Depression; Addiction; Stimulus-Response; Buddhism; Meditation; Suicide; Nidanas;&amp;quot;,
+              author: &amp;quot;Aureliano Nava&amp;quot;,
+              url: &amp;quot;/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a&amp;quot;,
+              pic: &amp;quot;/2018/06/14/Anthony-Bourdain-and-Ourselves/viva-la-liberacion.jpg&amp;quot;,
+              lrc: &amp;quot;&amp;quot;
+            }
+          });
+          window.aplayers || (window.aplayers = []);
+          window.aplayers.push(ap);
+        
+ </description>
+      <itunes:author> Aureliano Nava</itunes:author>
+      <itunes:subtitle> Fearless in Depression</itunes:subtitle>
+      <itunes:summary>  </itunes:summary>
+      <itunes:image href="https://aurelianonava.github.iohttps://github.com/aurelianonava/aurelianonava.github.io/blob/master/viva-la-liberacion.jpg" />
+      <enclosure url="https://aurelianonava.github.iohttps://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/" length="" type=""/>
+      <guid></guid>
+      <pubDate>Thu, 14 Jun 2018 20:43:33 GMT</pubDate>
+      <itunes:duration></itunes:duration>
+      <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
+        
+      </psc:chapters>
+    </item>
     
   </channel>
 </rss>
