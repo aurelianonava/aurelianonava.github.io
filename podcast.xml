@@ -6,7 +6,7 @@
     <copyright></copyright>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>Aureliano Nava</itunes:author>
-    <itunes:summary>The Human Condition</itunes:summary>
+    <itunes:summary>What does secular Dharma and/or secular Buddhism look like? Can we have both the wisdom of Buddhism that has taken decades to develop while not adopting the religious and cultural aspects?</itunes:summary>
     <itunes:owner>
       <itunes:name>ITUNES-OWNER</itunes:name>
       <itunes:email>ITUNES-EMAIL</itunes:email>
@@ -26,7 +26,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-jYznADsx&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-SblUgIDK&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
