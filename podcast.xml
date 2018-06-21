@@ -8,12 +8,12 @@
     <itunes:author>Aureliano Nava</itunes:author>
     <itunes:summary>The Human Condition</itunes:summary>
     <itunes:owner>
-      <itunes:name>Aureliano Nava</itunes:name>
-      <itunes:email>sersinfin@gmail.com</itunes:email>
+      <itunes:name>ITUNES-OWNER</itunes:name>
+      <itunes:email>ITUNES-EMAIL</itunes:email>
     </itunes:owner>
     <itunes:image href="http://aurelianonava.com" />
-    <itunes:category text="Buddhism">
-      <itunes:category text="Buddhism" />
+    <itunes:category text="CATEGORY">
+      <itunes:category text="CATEGORY" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <language>en</language>
@@ -26,7 +26,7 @@
         
         
           var ap = new APlayer({
-            element: document.getElementById(&amp;quot;aplayer-ZHAIvbgY&amp;quot;),
+            element: document.getElementById(&amp;quot;aplayer-jYznADsx&amp;quot;),
             narrow: false,
             autoplay: false,
             showlrc: false,
@@ -34,7 +34,7 @@
               title: &amp;quot;Anthony Bourdain and Ourselves: Depression; Addiction; Stimulus-Response; Buddhism; Meditation; Suicide; Nidanas;&amp;quot;,
               author: &amp;quot;Aureliano Nava&amp;quot;,
               url: &amp;quot;/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a&amp;quot;,
-              pic: &amp;quot;/2018/06/14/Anthony-Bourdain-and-Ourselves/viva-la-liberacion.jpg&amp;quot;,
+              pic: &amp;quot;&amp;quot;,
               lrc: &amp;quot;&amp;quot;
             }
           });
@@ -46,7 +46,7 @@
       <itunes:subtitle> Fearless in Depression</itunes:subtitle>
       <itunes:summary>  </itunes:summary>
       <itunes:image href="https://aurelianonava.github.iohttps://github.com/aurelianonava/aurelianonava.github.io/blob/master/viva-la-liberacion.jpg" />
-      <enclosure url="https://aurelianonava.github.iohttps://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/" length="" type=""/>
+      <enclosure url="https://aurelianonava.github.iohttps://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="" type=""/>
       <guid></guid>
       <pubDate>Thu, 14 Jun 2018 20:43:33 GMT</pubDate>
       <itunes:duration></itunes:duration>
