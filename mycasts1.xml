@@ -32,9 +32,9 @@
             Depression,Meditation,Buddhism,Anthony Bourdain
         </itunes:keywords>
         <itunes:image href="https://aurelianonava.github.io/images/untangling-with-aureliano-nava.jpg"/>
-        <rawvoice:rating>TV-G</rawvoice:rating>
-        <rawvoice:location>Downey, California</rawvoice:location>
-        <rawvoice:frequency>Weekly</rawvoice:frequency>
+        <!-- <rawvoice:rating>TV-G</rawvoice:rating> -->
+        <!-- <rawvoice:location>Downey, California</rawvoice:location> -->
+        <!-- <rawvoice:frequency>Weekly</rawvoice:frequency> -->
         <itunes:category text="Religion"/>
         <pubDate>Fri, 21 May 2018 00:00:00 PST</pubDate>
         

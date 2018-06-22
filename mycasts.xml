@@ -1,0 +1,116 @@
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>http://aurelianonava.com</link>
+<language>en-us</language>
+<copyright>©2018</copyright>
+<webMaster></webMaster>
+<managingEditor></managingEditor>
+<image>
+<url>
+https://aurelianonava.github.io/images/untangling-with-aureliano-nava.jpg
+</url>
+<title>Train Mind</title>
+<link>http://aurelianonava.com</link>
+</image>
+<itunes:owner>
+<itunes:name>Train Mind</itunes:name>
+<itunes:email>sersinfin@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Education">
+<itunes:category text="Higher Education"/>
+</itunes:category>
+<itunes:keywords>
+Depression, Meditation, Buddhism, Anthony Bourdain
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://aurelianonava.github.io/images/untangling-with-aureliano-nava.jpg"/>
+<atom:link href="http://streaming.osu.edu/podcast/Example/podcast.xml" rel="self" type="application/rss+xml"/>
+ <!--  The URL of this file  -->
+<pubDate>Fri, 21 May 2018 00:00:00 PST</pubDate>
+ <!--
+ http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock 
+-->
+<title>Anthony Bourdain and Ourselves</title>
+<itunes:author>Aureliano Nava</itunes:author>
+<description>
+Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.
+</description>
+<itunes:summary>
+Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.
+</itunes:summary>
+<itunes:subtitle>Fearless in Depression</itunes:subtitle>
+<lastBuildDate>Fri, 21 May 2018 00:00:00 PST</lastBuildDate>
+ <!--
+ http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock 
+-->
+ <!--  Always add the newest ITEM to the top of the list  -->
+<item>
+<title>Anthony Bourdain and Ourselves</title>
+<description>
+Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.
+</description>
+<itunes:summary>
+Example MP3 podcast item including iTunes proprietary tags.
+</itunes:summary>
+<itunes:subtitle>A working sample podcast episode.</itunes:subtitle>
+<itunesu:category itunesu:code="112"/>
+<enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" type="audio/mpeg" length="1"/>
+<guid>https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a</guid>
+ <!--  GUID URL is identical to Enclosure URL  -->
+<itunes:duration>0:42</itunes:duration>
+<pubDate>Fri, 21 May 2018 00:00:00 PST</pubDate>
+ <!--
+ http://www.timeanddate.com/worldclock/city.html?n=805 - Use 24 hour clock 
+-->
+</item>
+</channel>
+</rss>
+<!--
+
+XML Character Entity References:
+& (ampersand)       =   &amp;
+< (less than)       =   &lt;
+> (greater than)    =   &gt;
+" (quotation mark)  =   &quot;
+' (apostrophe)      =   &apos;
+
+iTunesU Category Codes:
+http://deimos.apple.com/rsrc/doc/UsingiTunesUPublicSiteManager/AboutCategoryPages/chapter_8_section_3.html
+
+iTunesU Supported Enclosures:
+	audio/mpeg                          .mp3
+	audio/x-m4a                         .m4a .m4b
+	video/mp4                           .mp4
+	video/x-m4v                         .m4v
+	application/pdf                     .pdf
+	application/epub+zip                .epub
+
+Podcast Supported Enclosures:
+ Audio Enclosure Types:
+	audio/mpeg                          .mpg .mpeg .mp2 .mp3
+	audio/x-m4a                         .m4a .m4b
+	audio/x-wav                         .wav
+	audio/x-aiff                        .aif .aiff .aifc
+	audio/x-pn-realaudio                .ra .rm
+	audio/x-ms-wma                      .wma
+	audio/midi                          .mid .midi
+
+ Video Enclosure Types:
+	video/mp4                           .mp4
+	video/x-m4v                         .m4v
+	video/x-flv                         .flv
+	application/x-shockwave-flash       .swf
+	video/quicktime                     .mov .qt
+	video/x-msvideo                     .avi
+	application/vnd.rn-realmedia        .rv
+	video/vnd.rn-realvideo              .rm
+	application/vnd.rn-realmedia-vbr    .rmvb
+	video/x-ms-wmv                      .wmv
+	video/mpeg                          .mpg .mpeg .mp2
+	video/x-dv                          .dv
+
+ Document Enclosure Types:
+  application/pdf                     .pdf
+  application/epub+zip                .epub
+-->
