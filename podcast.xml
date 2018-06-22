@@ -11,9 +11,9 @@
       <itunes:name>Aureliano Nava</itunes:name>
       <itunes:email>sersinfin@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://aurelianonava.com/untangling-with-aureliano-nava.jpg" />
-    <itunes:category text="Buddhism">
-      <itunes:category text="Buddhism" />
+    <itunes:image href="http://aurelianonava.com/images/untangling-with-aureliano-nava.jpg" />
+    <itunes:category text="CATEGORY">
+      <itunes:category text="CATEGORY" />
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <language>en</language>
