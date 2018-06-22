@@ -12,14 +12,14 @@
         <description>
             What does secular Dharma and/or secular Buddhism look like? Can we have both the wisdom of Buddhism that has taken decades to develop while not adopting the religious and cultural aspects?
         </description>
-        <itunes:category text="Religion">
+        <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Buddhism" />
         </itunes:category>
         <language>en-us</language>
         <copyright>Aureliano Nava 2018</copyright>
         <!-- <atom:link href="http://streaming.osu.edu/podcast/Example/podcast.xml" rel="self" type="application/rss+xml"/> -->
         <!-- Date you published the site -->
-        <lastBuildDate>Fri, 21 May 2018 00:00:00 PST</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2018 00:00:00 PST</lastBuildDate>
         <itunes:author>Aureliano Nava</itunes:author>
         <!--  -->
         <itunes:summary>
@@ -39,7 +39,7 @@
         <!-- <rawvoice:location>Downey, California</rawvoice:location> -->
         <!-- <rawvoice:frequency>Weekly</rawvoice:frequency> -->
         <itunes:category text="Religion"/>
-        <pubDate>Fri, 21 May 2018 00:00:00 PST</pubDate>
+        <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
         
 <!-- Individual episode content -->
 <item>
@@ -47,7 +47,7 @@
     <link>
         https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a
     </link>
-    <pubDate>Fri, 21 May 2018 00:00:00 PST</pubDate>
+    <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
     <description>
         Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice
     </description>
