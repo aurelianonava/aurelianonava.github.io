@@ -31,7 +31,7 @@
         <itunes:keywords>
             Depression,Meditation,Buddhism,Anthony Bourdain
         </itunes:keywords>
-        <itunes:image href="https://aurelianonava.github.io/images/untangling-with-aureliano-nava.jpg"/>
+        <itunes:image href="https://aurelianonava.github.io/untangling-with-aureliano-nava.jpg"/>
         <!-- <rawvoice:rating>TV-G</rawvoice:rating> -->
         <!-- <rawvoice:location>Downey, California</rawvoice:location> -->
         <!-- <rawvoice:frequency>Weekly</rawvoice:frequency> -->
@@ -56,7 +56,7 @@
     <itunes:summary>
         Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice
     </itunes:summary>
-    <itunes:image "https://aurelianonava.github.io/untangling-with-aureliano-nava.jpg"/>
+    <itunes:image href="https://aurelianonava.github.io/untangling-with-aureliano-nava.jpg"/>
     
     <itunes:keywords>
         Depression,Meditation,Buddhism,Anthony Bourdain
