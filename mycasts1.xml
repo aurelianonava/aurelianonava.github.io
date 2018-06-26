@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <!-- The name of the Podcast -->
-        <title>Train Mind, Untangling With Aureliano Nava</title>
+        <title>Untangling With Aureliano Nava</title>
         <link>https://aurelianonava.com</link>
         <image>
             <url>https://aurelianonava.github.io/images/untangling-with-aureliano-nava.jpg</url>
