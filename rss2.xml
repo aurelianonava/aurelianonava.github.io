@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Train Mind</title>
+    <title>Untangling With Aureliano Nava</title>
     <link>http://aurelianonava.com/</link>
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>What does secular Dharma and/or secular Buddhism look like? Can we have both the wisdom of Buddhism that has taken decades to develop while not adopting the religious and cultural aspects?</description>
-    <pubDate>Fri, 22 Jun 2018 01:25:01 GMT</pubDate>
+    <description>What does secular Dharma look like? Can we have both the wisdom of Buddhism that has taken decades in the West to take root while not adopting the religious and cultural aspects?</description>
+    <pubDate>Tue, 26 Jun 2018 00:40:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -29,20 +29,6 @@
       </description>
       
       <comments>http://aurelianonava.com/2018/06/14/Anthony-Bourdain-and-Ourselves/#disqus_thread</comments>
-    </item>
-    
-    <item>
-      <title>Say More</title>
-      <link>http://aurelianonava.com/2018/01/01/say-more/</link>
-      <guid>http://aurelianonava.com/2018/01/01/say-more/</guid>
-      <pubDate>Mon, 01 Jan 2018 08:15:38 GMT</pubDate>
-      <description>
-      
-        &lt;p&gt;What can one possibly write about when so much has been said already about a topic? One can stay silent, or one can write and add to what so many are eloquently covering.&lt;br&gt;
-      
-      </description>
-      
-      <comments>http://aurelianonava.com/2018/01/01/say-more/#disqus_thread</comments>
     </item>
     
   </channel>
