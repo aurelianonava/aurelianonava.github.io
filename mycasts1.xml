@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <!-- The name of the Podcast -->
-        <title>Train Mind</title>
+        <title>Train Mind, Untangling With Aureliano Nava</title>
         <link>https://aurelianonava.com</link>
         <image>
             <url>https://aurelianonava.github.io/images/untangling-with-aureliano-nava.jpg</url>
@@ -10,7 +10,7 @@
         </image>
         <!-- A Brief Description of your site here -->
         <description>
-            What does secular Dharma and/or secular Buddhism look like? Can we have both the wisdom of Buddhism that has taken decades to develop while not adopting the religious and cultural aspects?
+            What does secular Dharma look like? Can we have both the wisdom of Buddhism that has taken decades to take root in the West while not adopting the religious and cultural aspects?
         </description>
         <itunes:category text="Religion &amp; Spirituality">
             <itunes:category text="Buddhism" />
@@ -65,7 +65,7 @@
     <itunes:image href="https://aurelianonava.github.io/untangling-with-aureliano-nava.jpg"/>
     
     <itunes:keywords>
-        Depression,Meditation,Buddhism,Anthony Bourdain
+        Depression,Meditation,Buddhism,Anthony Bourdain,Suicide,Secular Dharma,Secular Buddhism
     </itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
 
