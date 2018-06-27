@@ -62,7 +62,7 @@
 <item>
     <title>Anthony Bourdain and Ourselves</title>
     <link>
-        https://aurelianonava.github.io/pc-channel/episode-01/0620-2018.m4a
+        https://aurelianonava.github.io
     </link>
     <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
     <description>
@@ -76,9 +76,9 @@
 
     <enclosure url="https://aurelianonava.github.io/pc-channel/episode-01/0620-2018.m4a" length="42000000" type="audio/mpeg"/>
     
-    <guid isPermalink="true">
+    <!-- <guid isPermalink="true">
         https://aurelianonava.github.io/pc-channel/episode-01/0620-2018.m4a
-    </guid>
+    </guid> -->
     <itunes:duration>42:00</itunes:duration>
     <itunes:summary>
         Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice
