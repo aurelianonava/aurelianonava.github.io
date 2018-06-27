@@ -1,0 +1,75 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <!-- The name of the Podcast -->
+        <title>Untangling With Aureliano Nava</title>
+        <link>https://aurelianonava.github.io/</link>
+        <image>
+            <url>https://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg</url>
+            <title>Doggie Looking at You</title>
+            <link>https://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg</link>
+        </image>
+        <!-- A Brief Description of your site here -->
+        <description>
+            What does secular Dharma look like? Can we have both the wisdom of Buddhism that has taken decades to take root in the West while not adopting the religious and cultural aspects? And if it's possible, what do we have?
+        </description>
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Buddhism" />
+        </itunes:category>
+        <language>en-us</language>
+        <copyright>Aureliano Nava 2018</copyright>
+        <!-- <atom:link href="http://streaming.osu.edu/podcast/Example/podcast.xml" rel="self" type="application/rss+xml"/> -->
+        <!-- Date you published the site -->
+        <lastBuildDate>Fri, 22 May 2018 00:00:00 PST</lastBuildDate>
+        <itunes:author>Aureliano Nava</itunes:author>
+        <!--  -->
+        <itunes:summary>
+            Secular Dharma, meditation, lots of suffering, all things human and dog.  
+        </itunes:summary>
+        <itunes:subtitle>Fearless Human Warriorship</itunes:subtitle>
+        <itunes:owner>
+            <itunes:name>Aureliano Nava</itunes:name>
+            <itunes:email>sersinfin@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:keywords>
+            secular dharma,mindfulness,Buddhism,Shambhala,religion,spirituality,zen,secular buddhism,warriorship
+        </itunes:keywords>
+        <itunes:image href="https://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg"/>
+        <!-- <rawvoice:rating>TV-G</rawvoice:rating> -->
+        <!-- <rawvoice:location>Downey, California</rawvoice:location> -->
+        <!-- <rawvoice:frequency>Weekly</rawvoice:frequency> -->
+        <itunes:category text="Religion"/>
+        <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
+        
+<!-- Individual episode content -->
+<item>
+    <title>Anthony Bourdain and Ourselves</title>
+    <link>
+        https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a
+    </link>
+    <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
+    <description>
+        Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="42000000" type="audio/mpeg"/>
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a
+    </guid>
+    <itunes:duration>42:00</itunes:duration>
+    <itunes:summary>
+        Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg"/>
+    
+    <itunes:keywords>
+        Depression,Meditation,Buddhism,Anthony Bourdain,Suicide,Secular Dharma,Secular Buddhism
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+    
+    </channel>
+</rss>
