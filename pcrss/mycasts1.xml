@@ -23,7 +23,7 @@
         </itunes:keywords>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg"/>
-        <atom:link href="https://aurelianonava.github.io/mycasts1.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://aurelianonava.github.io/pcrss/mycasts1.xml" rel="self" type="application/rss+xml" />
         <pubDate>Fri, 22 May 2018 00:00:00 PST</pubDate>
         
 
@@ -32,7 +32,7 @@
             What does secular Dharma look like? Can we have both the wisdom of Buddhism that has taken decades to take root in the West while not adopting the religious and cultural aspects? And if it's possible, what do we have?
         </description>
         <itunes:summary>
-            Secular Dharma, meditation, lots of suffering, more on suffering, and all things human and dog.  
+            Secular Dharma, meditation, lots of suffering, more on suffering, all things human and dog.  
         </itunes:summary>
         
         
