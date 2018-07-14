@@ -22,7 +22,7 @@
             secular spirituality,meditation,secular dharma,mindfulness,Buddhism,Shambhala,religion,spirituality,zen,secular buddhism,warriorship,secular humanism
         </itunes:keywords>
         <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="https://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg"/>
+        <itunes:image href="http://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg"/>
         <atom:link href="https://aurelianonava.github.io/mycasts1.xml" rel="self" type="application/rss+xml" />
         <pubDate>Fri, 22 May 2018 00:00:00 PST</pubDate>
         
@@ -58,6 +58,7 @@
         <itunes:category text="Religion"/>
         <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
         
+
 <!-- Individual episode content -->
 <item>
     <title>Anthony Bourdain and Ourselves</title>
