@@ -8,7 +8,7 @@
         <image>
             <url>https://aurelianonava.github.io/vctr/vctr-3000x1809.jpg</url>
             <title>VCTR</title>
-            <link>https://aurelianonava.github.io</link>
+            <link>https://aurelianonava.github.io/vctr/vctr-3000x1809.jpg</link>
         </image>
         <itunes:owner>
             <itunes:name>Aureliano Nava</itunes:name>
@@ -61,13 +61,13 @@
 
 <!-- Individual episode content -->
 <item>
-    <title>Chogyam Trungpa on Nuisance</title>
+    <title>Nuisance</title>
     <link>
         https://aurelianonava.github.io/vctr/episode-01/nuisance.m4a
     </link>
     <pubDate>Thrus, 18 July 2018 12:00:00 PST</pubDate>
     <description>
-        Commnets on excerpt on nuisance, from "Mindfulness in Action" in The Collected Works of Chögyam Trungpa, Volume 10 by Chögyam Trungpa Rinpoche, page 297 
+        Commnets on nuisance excerpt, from "Mindfulness in Action" in The Collected Works of Chögyam Trungpa, Volume 10 by Chögyam Trungpa Rinpoche, page 297 
     </description>
     <itunes:category text="Religion &amp; Spirituality">
         <itunes:category text="Buddhism" />
