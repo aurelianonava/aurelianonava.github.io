@@ -24,7 +24,7 @@
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://aurelianonava.github.io/vctr/vctr-3000x1809.jpg"/>
         <atom:link href="https://aurelianonava.github.io/vctr/vctr.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Thurs, 18 July 2018 12:00:00 PST</pubDate>
+        <pubDate>Thu, 18 July 2018 12:00:00 PST</pubDate>
         
 
         <!-- A Brief Description of your site here -->
@@ -39,7 +39,7 @@
         
         <!-- <atom:link href="http://streaming.osu.edu/podcast/Example/podcast.xml" rel="self" type="application/rss+xml"/> -->
         <!-- Date you published the site -->
-        <lastBuildDate>Thurs, 18 July 2018 12:00:00 PST</lastBuildDate>
+        <lastBuildDate>Thu, 18 July 2018 12:00:00 PST</lastBuildDate>
         
         <!--  -->
         
@@ -56,7 +56,7 @@
         <!-- <rawvoice:location>Downey, California</rawvoice:location> -->
         <!-- <rawvoice:frequency>Weekly</rawvoice:frequency> -->
         <itunes:category text="Religion"/>
-        <pubDate>Thurs, 18 July 2018 12:00:00 PST</pubDate>
+        <pubDate>Thu, 18 July 2018 12:00:00 PST</pubDate>
         
 
 <!-- Individual episode content -->
@@ -65,9 +65,9 @@
     <link>
         https://aurelianonava.github.io/vctr/episode-01/nuisance.m4a
     </link>
-    <pubDate>Thrus, 18 July 2018 12:00:00 PST</pubDate>
+    <pubDate>Thu, 18 July 2018 12:00:00 PST</pubDate>
     <description>
-        Commnets on nuisance excerpt, from "Mindfulness in Action" in The Collected Works of Chögyam Trungpa, Volume 10 by Chögyam Trungpa Rinpoche, page 297 
+        Comments on nuisance excerpt, from "Mindfulness in Action" in The Collected Works of Chögyam Trungpa, Volume 10 by Chögyam Trungpa Rinpoche, page 297 
     </description>
     <itunes:category text="Religion &amp; Spirituality">
         <itunes:category text="Buddhism" />
@@ -78,7 +78,7 @@
     <guid isPermalink="true">
         https://aurelianonava.github.io/vctr/episode-01/nuisance.m4a
     </guid>
-    <itunes:duration>12:06</itunes:duration>
+    <itunes:duration>22:11</itunes:duration>
     <itunes:summary>
         Personal comments on "nuisance" excerpt. 
     </itunes:summary>
