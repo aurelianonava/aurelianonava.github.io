@@ -91,6 +91,39 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Faith</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-02/faith.m4a
+    </link>
+    <pubDate>Thu, 27 July 2018 15:00:00 PST</pubDate>
+    <description>
+        What is the role of faith in Buddhism? Comments on faith excerpt from Chogyam Trungpa.  
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-02/faith.m4a" length="19000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-02/faith.m4a
+    </guid>
+    <itunes:duration>23:19</itunes:duration>
+    <itunes:summary>
+        The role of faith in Buddhism 
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/vctr-3000x1809.jpg"/>
+    
+    <itunes:keywords>
+        Chogyam Trungpa,Chogyam Trungpa Rinpoche,meditation,buddha dharma,mindfulness,Buddhism,Tibetan,faith,doubt, Buddhism,religion,spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
