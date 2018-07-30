@@ -124,6 +124,39 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Taming Neurosis</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.m4a
+    </link>
+    <pubDate>Mon, 30 July 2018 14:00:00 PST</pubDate>
+    <description>
+        The discipline involoved in taming neurosis.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.m4a" length="17000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.m4a
+    </guid>
+    <itunes:duration>20:33</itunes:duration>
+    <itunes:summary>
+        The discipline in taming neurosis.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/vctr-3000x1809.jpg"/>
+    
+    <itunes:keywords>
+        Chogyam Trungpa,Chogyam Trungpa Rinpoche,meditation,buddha dharma,mindfulness,Buddhism,Tibetan,neurosis,taming neurosis,discipline,Buddhism,religion,spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
