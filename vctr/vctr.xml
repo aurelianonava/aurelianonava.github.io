@@ -129,7 +129,7 @@
 <item>
     <title>Taming Neurosis</title>
     <link>
-        https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.m4a
+        https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.mp3
     </link>
     <pubDate>Mon, 30 July 2018 14:00:00 PST</pubDate>
     <description>
@@ -139,10 +139,10 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.m4a" length="17000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.mp3" length="18000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
-        https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.m4a
+        https://aurelianonava.github.io/vctr/episode-03/taming-neurosis.mp3
     </guid>
     <itunes:duration>20:33</itunes:duration>
     <itunes:summary>
