@@ -63,7 +63,7 @@
 <item>
     <title>Nuisance</title>
     <link>
-        https://aurelianonava.github.io/vctr/episode-01/nuisance.m4a
+        https://aurelianonava.github.io/vctr/episode-01/nuisance.mp3
     </link>
     <pubDate>Thu, 18 July 2018 12:00:00 PST</pubDate>
     <description>
@@ -73,10 +73,10 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-01/nuisance.m4a" length="42000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-01/nuisance.mp3" length="42000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
-        https://aurelianonava.github.io/vctr/episode-01/nuisance.m4a
+        https://aurelianonava.github.io/vctr/episode-01/nuisance.mp3
     </guid>
     <itunes:duration>22:11</itunes:duration>
     <itunes:summary>
@@ -96,7 +96,7 @@
 <item>
     <title>Faith</title>
     <link>
-        https://aurelianonava.github.io/vctr/episode-02/faith.m4a
+        https://aurelianonava.github.io/vctr/episode-02/faith.mp3
     </link>
     <pubDate>Thu, 27 July 2018 15:00:00 PST</pubDate>
     <description>
@@ -106,10 +106,10 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-02/faith.m4a" length="19000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-02/faith.mp3" length="19000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
-        https://aurelianonava.github.io/vctr/episode-02/faith.m4a
+        https://aurelianonava.github.io/vctr/episode-02/faith.mp3
     </guid>
     <itunes:duration>23:19</itunes:duration>
     <itunes:summary>
