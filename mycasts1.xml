@@ -32,7 +32,7 @@
             What does secular spirituality look like? Can we keep the best of traditions such as Buddhism, deep in knowledge and wisdom, fitting easily within a secular framework, while not adopting the religious and cultural aspects? And if it's possible, what do we end up with?
         </description>
         <itunes:summary>
-            Secular Dharma, meditation, lots on suffering, more on suffering, all things human and dog.   
+            Secular Dharma, meditation, lots on suffering, more on suffering, all things human and dog.  
         </itunes:summary>
         
         
@@ -63,7 +63,7 @@
 <item>
     <title>Anthony Bourdain and Ourselves</title>
     <link>
-        https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a
+        https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.mp3
     </link>
     <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
     <description>
@@ -73,10 +73,10 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="42000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.mp3" length="27000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
-        https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a
+        https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.mp3
     </guid>
     <itunes:duration>42:00</itunes:duration>
     <itunes:summary>
@@ -96,7 +96,7 @@
 <item>
     <title>Freedom Beyond Power and Control</title>
     <link>
-        https://aurelianonava.github.io/pc-channel/episode-02
+        https://aurelianonava.github.io/pc-channel/episode-02/freedom.mp3
     </link>
     <pubDate>Fri, 13 July 2018 22:00:00 PST</pubDate>
     <description>
@@ -108,10 +108,10 @@
     
     <!-- <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="42000000" type="audio/mpeg"/> -->
 
-    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-02/freedom.m4a" length="42000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-02/freedom.mp3" length="33000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
-        https://aurelianonava.github.io/pc-channel/episode-02/freedom.m4a
+        https://aurelianonava.github.io/pc-channel/episode-02/freedom.mp3
     </guid>
     <itunes:duration>49:49</itunes:duration>
     <itunes:summary>
@@ -130,7 +130,7 @@
 <item>
     <title>MeToo and current Shambhala community crisis.</title>
     <link>
-        https://aurelianonava.github.io/pc-channel/episode-03
+        https://aurelianonava.github.io/pc-channel/episode-03/me-too-shambhala.mp3
     </link>
     <pubDate>Mon, 16 July 2018 07:00:00 PST</pubDate>
     <description>
@@ -142,10 +142,10 @@
     
     <!-- <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="42000000" type="audio/mpeg"/> -->
 
-    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-03/me-too-shambhala.m4a" length="42000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-03/me-too-shambhala.mp3" length="25000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
-        https://aurelianonava.github.io/pc-channel/episode-03/me-too-shambhala.m4a
+        https://aurelianonava.github.io/pc-channel/episode-03/me-too-shambhala.mp3
     </guid>
     <itunes:duration>42:46</itunes:duration>
     <itunes:summary>
