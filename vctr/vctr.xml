@@ -160,6 +160,40 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Dharmajacking Trungpa</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-04/dharmajacking-trunpga.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 05 August 2018 14:00:00 PST</pubDate>
+    <description>
+        Not losing sight of what matters in crisis.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-04/dharmajacking-trungpa.mp3" length="14000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-04/dharmajacking-trungpa.mp3
+    </guid>
+    <itunes:duration>20:37</itunes:duration>
+    <itunes:summary>
+        Not losing sight of what matters in crisis.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Chogyam Trungpa,meditation,dharma,mindfulness,Buddhism,discipline,container,Sakyong Mipham,shambhala sexual allegations,Buddhism,religion,spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
