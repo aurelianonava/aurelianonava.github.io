@@ -19,7 +19,7 @@
             <itunes:category text="Buddhism" />
         </itunes:category>
         <itunes:keywords>
-            Chogyam Trungpa,Chogyam Trungpa Rinpoche,meditation,buddha dharma,mindfulness,Buddhism,Tibetan Buddhism,Shambhala,religion,spirituality,warriorship
+            Chogyam Trungpa,Chogyam Trungpa Rinpoche,meditation,buddha dharma,mindfulness,Buddhism,Tibetan,dharama,secular dharma,secular spirituality,secular buddhism,sakyong,sakyong mipahm,Buddhism,Shambhala,religion,spirituality,warriorship,secular humanism
         </itunes:keywords>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
@@ -176,12 +176,12 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-04/dharmajacking-trungpa.mp3" length="14000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-04/dharmajacking-trungpa.mp3" length="16000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
         https://aurelianonava.github.io/vctr/episode-04/dharmajacking-trungpa.mp3
     </guid>
-    <itunes:duration>20:37</itunes:duration>
+    <itunes:duration>18:30</itunes:duration>
     <itunes:summary>
         Not losing sight of what matters in crisis.
     </itunes:summary>
