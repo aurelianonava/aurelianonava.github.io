@@ -194,6 +194,40 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Don't be afraid of being a fool.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-05/fool.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Mon, 07 August 2018 12:00:00 PST</pubDate>
+    <description>
+        You don't understand and don't know and it's ok.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-05/fool.mp3" length="18000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-05/fool.mp3
+    </guid>
+    <itunes:duration>21:41</itunes:duration>
+    <itunes:summary>
+        You don't understand and don't know and it's ok.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Chogyam Trungpa,trungpa,meditation,dharma,mindfulness,Buddhism,uncertainty,don't be afraid of being a fool,Buddhism,religion,spirituality,shambhala,shambhala warrior
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
