@@ -210,12 +210,12 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-05/fool.mp3" length="18000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-05/fool.mp3" length="26000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
         https://aurelianonava.github.io/vctr/episode-05/fool.mp3
     </guid>
-    <itunes:duration>21:41</itunes:duration>
+    <itunes:duration>29:32</itunes:duration>
     <itunes:summary>
         You don't understand and don't know and it's ok.
     </itunes:summary>
