@@ -19,7 +19,7 @@
             <itunes:category text="Buddhism" />
         </itunes:category>
         <itunes:keywords>
-            Chogyam Trungpa,Chogyam Trungpa Rinpoche,meditation,buddha dharma,mindfulness,Buddhism,Tibetan,dharama,secular dharma,secular spirituality,secular buddhism,sakyong,sakyong mipahm,Buddhism,Shambhala,religion,spirituality,warriorship,secular humanism
+            religion,spirituality,health,society,science,medicine,culture,meditation,mindfulness,buddhism,dharama,secular dharma,secular spirituality,secular buddhism
         </itunes:keywords>
         <itunes:explicit>No</itunes:explicit>
         <itunes:image href="http://aurelianonava.github.io/images/untangling-with-aureliano-nava-01.jpg"/>
@@ -29,10 +29,10 @@
 
         <!-- A Brief Description of your site here -->
         <description>
-            What does secular spirituality look like? Can we keep the best of traditions such as Buddhism, deep in knowledge and wisdom, fitting easily within a secular framework, while not adopting the religious and cultural aspects? And if it's possible, what do we end up with?
+            What does secular spirituality look like? Can we keep the best of traditions such as Buddhism, deep in knowledge and wisdom, fitting easily within a secular framework, while not adopting the religious and cultural aspects? And if it's possible, what do we end up with and what does it impact?
         </description>
         <itunes:summary>
-            Secular Dharma, meditation, lots on suffering, more on suffering, all things human and dog.  
+            Secular Dharma and spritituality, meditation, mental health, society, lots on suffering, more on suffering, all things human and dog.  
         </itunes:summary>
         
         
@@ -63,7 +63,7 @@
 <item>
     <title>Anthony Bourdain and Ourselves</title>
     <link>
-        https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.mp3
+        https://aurelianonava.github.io/pc-channel/episode-01/0620-2018.mp3
     </link>
     <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
     <description>
@@ -73,7 +73,7 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.mp3" length="27000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-01/0620-2018.mp3" length="27000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
         https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.mp3
