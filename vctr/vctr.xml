@@ -228,6 +228,40 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Doubt.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-06/doubt.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 19 August 2018 13:00:00 PST</pubDate>
+    <description>
+        We doubt whethere there is a real connection between our projections and reality.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-06/doubt.mp3" length="34000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-06/doubt.mp3
+    </guid>
+    <itunes:duration>39:19</itunes:duration>
+    <itunes:summary>
+        We doubt whethere there is a real connection between our projections and reality.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        Chogyam Trungpa,trungpa,meditation,dharma,mindfulness,Buddhism,doubt,religious doubt,non-dualism,direct perception,Buddhism,religion,spirituality,Dzogchen,Mahamudra
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
