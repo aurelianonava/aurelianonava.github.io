@@ -1,7 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <!-- The name of the Podcast -->
-        <title>Untangling With Aureliano Nava</title>
+        <title>Aureliano Untangling</title>
         <link>https://aurelianonava.github.io/</link>
         <language>en-us</language>
         <copyright>Aureliano Nava 2018</copyright>
