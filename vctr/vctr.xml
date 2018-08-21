@@ -244,12 +244,12 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-06/doubt.mp3" length="34000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-06/doubt.mp3" length="67000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
         https://aurelianonava.github.io/vctr/episode-06/doubt.mp3
     </guid>
-    <itunes:duration>39:19</itunes:duration>
+    <itunes:duration>41:28</itunes:duration>
     <itunes:summary>
         We doubt whether there is a real connection between our projections and reality.
     </itunes:summary>
