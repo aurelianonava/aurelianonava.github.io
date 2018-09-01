@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://yokoji.libsyn.com/rss" rel="self" type="application/rss+xml"/>
+		<title>Yokoji Zen Dharma Talks</title>
+		<pubDate>Sun, 22 Jul 2018 00:30:56 +0000</pubDate>
+		<lastBuildDate>Sun, 12 Aug 2018 00:33:11 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>http://zmc.org/podcast</link>
+		<language>en</language>
+		<copyright><![CDATA[Yokoji-Zen Mountain Center]]></copyright>
+		<docs>http://zmc.org/podcast</docs>
+		<managingEditor>zmc@zmc.org (zmc@zmc.org)</managingEditor>
+		<itunes:summary><![CDATA[Monthly Dharma talks by Tenshin Fletcher Roshi at Yokoji-Zen Mountain Center. Yokoji is a year-round Zen Buddhist Training Center in the Southern Californian mountains.]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg</url>
+			<title>Yokoji Zen Dharma Talks</title>
+			<link><![CDATA[http://zmc.org/podcast]]></link>
+		</image>
+		<itunes:author>Tenshin Fletcher Roshi</itunes:author>
+		<itunes:keywords>buddhism,dharma,roshi,zen</itunes:keywords>
+		<itunes:category text="Religion &amp; Spirituality">
+			<itunes:category text="Buddhism"/>
+		</itunes:category>
+		<itunes:category text="Religion &amp; Spirituality"></itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Jim Lakey]]></itunes:name>
+			<itunes:email>zmc@zmc.org</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[Monthly Dharma talks by Tenshin Fletcher Roshi at Yokoji-Zen Mountain Center. Yokoji is a year-round Zen Buddhist Training Center in the Southern Californian mountains.]]></description>
+		<itunes:subtitle><![CDATA[Monthly Dharma talks by Tenshin Fletcher Roshi from Yokoji Zen Mountain Center]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+				<item>
+			<title>How Does It Feel In Your Bones?</title>
+			<pubDate>Sun, 22 Jul 2018 00:30:56 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[290afba3d14f4fbc8d8d2ef81b00ae93]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/How_Does_It_Feel_In_Your_Bones_.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/3/c/c/d3cc8bb5058e23aa/How_Does_It_Feel_In_Your_Bones_.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi takes questions from the members and residents of Yokoji on a Sunday morning.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi takes questions from the members and residents of Yokoji on a Sunday morning.</p>]]></content:encoded>
+			<enclosure length="74602084" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/How_Does_It_Feel_In_Your_Bones_.mp3?dest-id=20319" />
+			<itunes:duration>51:43</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi takes questions from the members and residents of Yokoji on a Sunday morning.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>Mechanisms for Change</title>
+			<pubDate>Sun, 01 Jul 2018 17:43:33 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9f8b37e1e5684e7cb5ef0c7d53f69890]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Mechanisms_for_Change.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/4/5/7/b457a77a17609ebb/Mechanisms_for_Change.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks about how to use the change we experience in our life as food for practice.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks about how to use the change we experience in our life as food for practice.</p>]]></content:encoded>
+			<enclosure length="75517922" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Mechanisms_for_Change.mp3?dest-id=20319" />
+			<itunes:duration>52:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks about how to use the change we experience in our life as food for practice.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>An Intimate Connection</title>
+			<pubDate>Fri, 01 Jun 2018 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fa8aa7791e3f413faf08994a42356238]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/An_Intimate_Connection.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/5/3/7/c5373cecf325474e/An_Intimate_Connection.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks during the final sesshin of the Spring Training Period, 2018.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks during the final sesshin of the Spring Training Period, 2018.</p>]]></content:encoded>
+			<enclosure length="61869244" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/An_Intimate_Connection.mp3?dest-id=20319" />
+			<itunes:duration>42:53</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks during the final sesshin of the Spring Training Period, 2018.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>Seeing Clearly, Living Fully</title>
+			<pubDate>Tue, 01 May 2018 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[944960e5e4fe1eb390d7ea1090b588c3]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Seeing_Clearly_Living_Fully.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/f/9/a/d/f9adef61950a8f11/Seeing_Clearly_Living_Fully.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi takes questions from the trainees and members on a Sunday morning at Yokoji.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi takes questions from the trainees and members on a Sunday morning at Yokoji.</p>]]></content:encoded>
+			<enclosure length="68186040" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Seeing_Clearly_Living_Fully.mp3?dest-id=20319" />
+			<itunes:duration>47:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi takes questions from the trainees and members on a Sunday morning at Yokoji.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>Living Buddhism</title>
+			<pubDate>Sun, 01 Apr 2018 17:11:54 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4da4948da9c96824d57ea05f3670fa22]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Living_Buddhism.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/5/2/f/552f3dc864e67fca/Living_Buddhism.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi takes questions from the assembly on a Sunday morning at Yokoji.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi takes questions from the assembly on a Sunday morning at Yokoji.</p>]]></content:encoded>
+			<enclosure length="95471046" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Living_Buddhism.mp3?dest-id=20319" />
+			<itunes:duration>01:06:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi takes questions from the assembly on a Sunday morning at Yokoji.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>What is the Self</title>
+			<pubDate>Fri, 02 Mar 2018 01:09:53 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[58bcb0177d26e522c81b5a4c39600c1f]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/What_is_the_Self.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/6/d/3/96d324224df41f8e/What_is_the_Self.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi takes questions from those present at Yokoji on a Sunday morning.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi takes questions from those present at Yokoji on a Sunday morning.</p>]]></content:encoded>
+			<enclosure length="84127300" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/What_is_the_Self.mp3?dest-id=20319" />
+			<itunes:duration>58:20</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi takes questions from those present at Yokoji on a Sunday morning.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>Daily Life</title>
+			<itunes:title>Daily Life</itunes:title>
+			<pubDate>Thu, 01 Feb 2018 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4c74d86566b0cbe4792321b6bd63741b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Daily_Life.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/b/3/8/2b38ee4e170057e8/Daily_Life.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on practice in daily life.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on practice in daily life.</p>]]></content:encoded>
+			<enclosure length="71954104" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Daily_Life.mp3?dest-id=20319" />
+			<itunes:duration>49:53</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on practice in daily life.]]></itunes:subtitle>
+			<itunes:summary>Tenshin Roshi talks on practice in daily life.</itunes:summary>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>What is Compassion</title>
+			<itunes:title>What is Compassion</itunes:title>
+			<pubDate>Mon, 01 Jan 2018 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[86c49a68427c22849b84ea7551857b7b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/What_is_Compassion.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/9/d/8/99d84ab75c19028e/What_is_Compassion.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Zen practice and compassion during the New Year's Sesshin bridging 2017/2018.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Zen practice and compassion during the New Year's Sesshin bridging 2017/2018.</p>]]></content:encoded>
+			<enclosure length="64356342" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/What_is_Compassion.mp3?dest-id=20319" />
+			<itunes:duration>44:37</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Zen practice and compassion during the New Year's Sesshin bridging 2017/2018.]]></itunes:subtitle>
+			<itunes:summary>Tenshin Roshi talks on Zen practice and compassion during the New Year's Sesshin bridging 2017/2018.</itunes:summary>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>The Light of Awareness</title>
+			<itunes:title>The Light of Awareness</itunes:title>
+			<pubDate>Fri, 01 Dec 2017 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[1d2414e5fb6f73ca1463b68d9e50613b]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/The_Light_of_Awareness.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/2/8/3/d283e4fc98e56a91/The_Light_of_Awareness.jpg" />
+			<description><![CDATA[<p>A dharma talk given by Tenshin Roshi at the end of the 2017 Rohatsu Sesshin at Yokoji.</p>]]></description>
+			<content:encoded><![CDATA[<p>A dharma talk given by Tenshin Roshi at the end of the 2017 Rohatsu Sesshin at Yokoji.</p>]]></content:encoded>
+			<enclosure length="61363750" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/The_Light_of_Awareness.mp3?dest-id=20319" />
+			<itunes:duration>42:32</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A dharma talk given by Tenshin Roshi at the end of the 2017 Rohatsu Sesshin at Yokoji.]]></itunes:subtitle>
+			<itunes:summary>A dharma talk given by Tenshin Roshi at the end of the 2017 Rohatsu Sesshin at Yokoji.</itunes:summary>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:author>Tenshin Roshi</itunes:author>
+					</item>
+		<item>
+			<title>Knowing What This Life Is</title>
+			<pubDate>Wed, 01 Nov 2017 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[50f87e1fc144ce229a90dc44924c2528]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Knowing_What_This_Life_Is.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/4/c/4/e4c4b5d559ae14e3/Knowing_What_This_Life_Is.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi takes questions from the assembly in this talk given in October at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi takes questions from the assembly in this talk given in October at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="79214452" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Knowing_What_This_Life_Is.mp3?dest-id=20319" />
+			<itunes:duration>54:56</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi takes questions from the assembly in this talk given in October at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>Touchstones of Practice</title>
+			<pubDate>Sun, 01 Oct 2017 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ae0c6dd8913f124605e7516a301d875a]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Touchstones_for_Practice.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/d/0/e/4d0e5ae226df5af2/Touchstones_for_Practice.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi delivers a dharma talk during the first sesshin of the Fall Training Period at Yokoji about the touchstones of practice.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi delivers a dharma talk during the first sesshin of the Fall Training Period at Yokoji about the touchstones of practice.</p>]]></content:encoded>
+			<enclosure length="74147608" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Touchstones_for_Practice.mp3?dest-id=20319" />
+			<itunes:duration>51:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi delivers a dharma talk during the first sesshin of the Fall Training Period at Yokoji about the touchstones of practice.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>Living Vow</title>
+			<pubDate>Fri, 01 Sep 2017 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c90fa8245df360c80b9e8ef33a014e20]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Living_Vow.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/5/7/4/95742fb7fd6357b1/Living_Vow.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Jizo Day about the role of vows in our lives.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Jizo Day about the role of vows in our lives.</p>]]></content:encoded>
+			<enclosure length="71736256" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Living_Vow.mp3?dest-id=20319" />
+			<itunes:duration>49:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Jizo Day about the role of vows in our lives.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>The Benefits of Practice</title>
+			<pubDate>Tue, 01 Aug 2017 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[61133c3199049db9262985bbba553690]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/The_Benefits_of_Practice.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/2/5/2/e252e3eb9a412415/The_Benefits_of_Practice.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi takes questions from the assembly and talks on the benefits of practice.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi takes questions from the assembly and talks on the benefits of practice.</p>]]></content:encoded>
+			<enclosure length="84527314" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/The_Benefits_of_Practice.mp3?dest-id=20319" />
+			<itunes:duration>58:37</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi takes questions from the assembly and talks on the benefits of practice.]]></itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+					</item>
+		<item>
+			<title>One Teaching in Response</title>
+			<pubDate>Sat, 01 Jul 2017 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[686f26512a64a753e1300438e60c2701]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/One_Teaching_in_Response.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/6/1/a/1/61a13ad9134a2db5/One_Teaching_in_Response.jpg" />
+			<description><![CDATA[<p>Tenshin, Roshi takes some questions from the Sangha before talking on Master Dogen's Genjokoan.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin, Roshi takes some questions from the Sangha before talking on Master Dogen's Genjokoan.</p>]]></content:encoded>
+			<enclosure length="74123194" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/One_Teaching_in_Response.mp3?dest-id=20319" />
+			<itunes:duration>51:24</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin, Roshi takes some questions from the Sangha before talking on Master Dogen's Genjokoan.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Crossing the Bridge</title>
+			<pubDate>Thu, 01 Jun 2017 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[8752603ac5d3c78dce5a18764585c03d]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Crossing_the_Bridge.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/3/d/8/9/3d896e064d855a1f/Crossing_the_Bridge.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on the koan "The Stone Bridge of Joshu" from the Blue Cliff Record.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on the koan "The Stone Bridge of Joshu" from the Blue Cliff Record.</p>]]></content:encoded>
+			<enclosure length="62637346" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Crossing_the_Bridge.mp3?dest-id=20319" />
+			<itunes:duration>43:25</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on the koan "The Stone Bridge of Joshu" from the Blue Cliff Record.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Know How To Be Satisfied</title>
+			<pubDate>Mon, 01 May 2017 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2fd0ea0abd16ce5f28e01cb50b2c2ab8]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Know_How_To_Be_Satisfied.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/6/c/d/d6cdf87c4f877c30/Know_How_To_Be_Satisfied.jpg" />
+			<description><![CDATA[<p>A talk by Tenshin Roshi given during the March 2017 sesshin at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>A talk by Tenshin Roshi given during the March 2017 sesshin at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="70276424" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Know_How_To_Be_Satisfied.mp3?dest-id=20319" />
+			<itunes:duration>48:43</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[A talk by Tenshin Roshi given during the March 2017 sesshin at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Work of Buddhism</title>
+			<pubDate>Sat, 01 Apr 2017 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[0fa07e183e13cc663e91a18a7b6207f2]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/The_Work_of_Buddhism.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/5/a/205aae47e7d65fbd/The_Work_of_Buddhism.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi takes questions from the sangha members on a Sunday morning at Yokoji.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi takes questions from the sangha members on a Sunday morning at Yokoji.</p>]]></content:encoded>
+			<enclosure length="72504358" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/The_Work_of_Buddhism.mp3?dest-id=20319" />
+			<itunes:duration>50:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi takes questions from the sangha members on a Sunday morning at Yokoji.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Relationship Between Thought and Emotion</title>
+			<pubDate>Wed, 01 Mar 2017 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[bdd353f6f21a4131aa84f88f369fa8c3]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/The_Relationship_Between_Thought_and_Emotion.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/0/8/4/2084d126f21cc78a/The_Relationship_Between_Thought_and_Emotion.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on the relationship between thought and emotion in a question-and-answer-based talk given during the Sunday morning program in February 2017.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on the relationship between thought and emotion in a question-and-answer-based talk given during the Sunday morning program in February 2017.</p>]]></content:encoded>
+			<enclosure length="83062310" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/The_Relationship_Between_Thought_and_Emotion.mp3?dest-id=20319" />
+			<itunes:duration>57:36</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on the relationship between thought and emotion in a question-and-answer-based talk given during the Sunday morning program in February 2017.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Distractions</title>
+			<pubDate>Wed, 01 Feb 2017 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[944a7486af9c735092bd324338d625c8]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Distractions.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/7/6/2/4/76244780ca0fbf62/Distractions.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi spoke about distractions in the context of Zen practice during the Beginner's Mind Sesshin that took place at Yokoji in January 2017.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi spoke about distractions in the context of Zen practice during the Beginner's Mind Sesshin that took place at Yokoji in January 2017.</p>]]></content:encoded>
+			<enclosure length="68385278" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Distractions.mp3?dest-id=20319" />
+			<itunes:duration>47:24</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi spoke about distractions in the context of Zen practice during the Beginner's Mind Sesshin that took place at Yokoji in January 2017.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Heart of the Matter</title>
+			<pubDate>Sun, 01 Jan 2017 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7e5faaccfe04d65c014e766626f1ce58]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/The_Heart_of_the_Matter.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/b/3/c/4/b3c4f71140c3305c/The_Heart_of_the_Matter.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on the Heart Sutra in a talk entitled, "The Heart of the Matter". The talk was given on the first day of the New Year's Sesshin at Yokoji.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on the Heart Sutra in a talk entitled, "The Heart of the Matter". The talk was given on the first day of the New Year's Sesshin at Yokoji.</p>]]></content:encoded>
+			<enclosure length="75954244" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/The_Heart_of_the_Matter.mp3?dest-id=20319" />
+			<itunes:duration>52:40</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on the Heart Sutra in a talk entitled, "The Heart of the Matter". The talk was given on the first day of the New Year's Sesshin at Yokoji.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Cutting Edge of Practice</title>
+			<pubDate>Thu, 01 Dec 2016 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[632f2f160cafd2734baf1c9209e02012]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/The_Cutting_Edge_of_Practice.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/8/d/5/2/8d52af048bfc3e41/The_Cutting_Edge_of_Practice.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks about the cutting edge of practice and the importance of showing up. The talk was given during the Rohatsu sesshin, the retreat that celebrates the enlightenment of Shakyamuni Buddha.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks about the cutting edge of practice and the importance of showing up. The talk was given during the Rohatsu sesshin, the retreat that celebrates the enlightenment of Shakyamuni Buddha.</p>]]></content:encoded>
+			<enclosure length="44706456" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/The_Cutting_Edge_of_Practice.mp3?dest-id=20319" />
+			<itunes:duration>30:58</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks about the cutting edge of practice and the importance of showing up. The talk was given during the Rohatsu sesshin, the retreat that celebrates the enlightenment of Shakyamuni Buddha.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Meticulous Study</title>
+			<pubDate>Tue, 01 Nov 2016 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[83293623104c67859ee2dedcacb31a57]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/meticulous-study]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/8/e/6/c8e6bee08593ed3e/Meticulous_Study.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Case 95 of the Book of Equinimity, "Rinzai's One Stroke".</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Case 95 of the Book of Equinimity, "Rinzai's One Stroke".</p>]]></content:encoded>
+			<enclosure length="82521864" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Meticulous_Study.mp3?dest-id=20319" />
+			<itunes:duration>57:13</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Case 95 of the Book of Equinimity, "Rinzai's One Stroke".]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Approaches to Practice</title>
+			<pubDate>Sat, 01 Oct 2016 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f3d6d7be94d7355edda7b80b2e5927c0]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Approaches_to_Practice.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/d/9/3/3/d933db8005d9305f/Approaches_to_Practice.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks about approaches to practice—namely koan and just sitting meditation (shikantaza)—at the end of the September 2016 Sesshin at Yokoji.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks about approaches to practice—namely koan and just sitting meditation (shikantaza)—at the end of the September 2016 Sesshin at Yokoji.</p>]]></content:encoded>
+			<enclosure length="48148796" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Approaches_to_Practice.mp3?dest-id=20319" />
+			<itunes:duration>50:02</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks about approaches to practice—namely koan and just sitting meditation (shikantaza)—at the end of the September 2016 Sesshin at Yokoji.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Just Bow</title>
+			<pubDate>Thu, 01 Sep 2016 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6128fe416761f2e5cb5fa0e10d814f8a]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Just_Bow.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/5/c/7/c/5c7c776e943a9d46/Just_Bow.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Case 32 of the Blue Cliff Record, "Standing There".</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Case 32 of the Blue Cliff Record, "Standing There".</p>]]></content:encoded>
+			<enclosure length="79426959" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Just_Bow.mp3?dest-id=20319" />
+			<itunes:duration>55:04</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Case 32 of the Blue Cliff Record, "Standing There".]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Finding a Way</title>
+			<pubDate>Mon, 01 Aug 2016 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[6d2f7265ba1b6299805661285a9c5e6a]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/finding-a-way]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/c/0/5/6/c056c5b58d310502/Finding_a_Way.jpg" />
+			<description><![CDATA[<p>This talk was given on July 3rd, 2016 at Yokoji Zen Mountain Center by Tenshin, Roshi.</p>]]></description>
+			<content:encoded><![CDATA[<p>This talk was given on July 3rd, 2016 at Yokoji Zen Mountain Center by Tenshin, Roshi.</p>]]></content:encoded>
+			<enclosure length="46781870" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Finding_a_Way.mp3?dest-id=20319" />
+			<itunes:duration>48:36</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This talk was given on July 3rd, 2016 at Yokoji Zen Mountain Center by Tenshin, Roshi.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Principles of Zazen</title>
+			<pubDate>Fri, 01 Jul 2016 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c066e430f4fcaad586ca7003cde11412]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Principles_of_Zazen.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/6/b/1/a/6b1a24df54a557a7/Principles_of_Zazen.jpg" />
+			<description><![CDATA[<p>This talk was given by Tenshin Roshi on Sunday July 26th, 2016 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>This talk was given by Tenshin Roshi on Sunday July 26th, 2016 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="42055175" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Principles_of_Zazen.mp3?dest-id=20319" />
+			<itunes:duration>43:41</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[This talk was given by Tenshin Roshi on Sunday July 26th, 2016 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Body Breath and  Mind</title>
+			<pubDate>Wed, 01 Jun 2016 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4a9b3a663e535c1c0243120087298b88]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Body_Breath__Mind.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/4/1/3/e413e486af1c7275/Body_Breath__Mind.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi have this talk on the second day of the final sesshin of the Spring Training period at Yokoji in May 2016.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi have this talk on the second day of the final sesshin of the Spring Training period at Yokoji in May 2016.</p>]]></content:encoded>
+			<enclosure length="45388256" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Body_Breath__Mind.mp3?dest-id=20319" />
+			<itunes:duration>47:09</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi have this talk on the second day of the final sesshin of the Spring Training period at Yokoji in May 2016.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>The Poisonous Snake</title>
+			<pubDate>Sun, 01 May 2016 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2581c07e58456693d727ada8d34e93c7]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/the-poisonous-snake]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/e/d/3/9/ed39ae1ba2872c87/The_Poisonous_Snake.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Case 24 of the Book of Equanimity,
+"Seppo's Poisonous Snake".</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Case 24 of the Book of Equanimity,
+"Seppo's Poisonous Snake".</p>]]></content:encoded>
+			<enclosure length="35730536" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/The_Poisonous_Snake.mp3?dest-id=20319" />
+			<itunes:duration>37:05</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Case 24 of the Book of Equanimity,
+"Seppo's Poisonous Snake".]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Light and Dark</title>
+			<pubDate>Fri, 01 Apr 2016 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ab5bc5f90e378eec8ce0672011ec574f]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Light_and_Dark.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/4/0/a/2/40a2366e171cd1d6/Light_and_Dark.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on case 86 of the Blue Cliff Record, Ummon's "The Kitchen Pantry and the Main Gateway". The talk was given on March 9th, 2016 during the first sesshin of the Spring Training Period.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on case 86 of the Blue Cliff Record, Ummon's "The Kitchen Pantry and the Main Gateway". The talk was given on March 9th, 2016 during the first sesshin of the Spring Training Period.</p>]]></content:encoded>
+			<enclosure length="46389727" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Light_and_Dark.mp3?dest-id=20319" />
+			<itunes:duration>48:12</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on case 86 of the Blue Cliff Record, Ummon's "The Kitchen Pantry and the Main Gateway". The talk was given on March 9th, 2016 during the first sesshin of the Spring Training Period.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Consciousness</title>
+			<pubDate>Tue, 01 Mar 2016 09:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[90cff15b8b696674715964671bb59594]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Consciousness.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Consciousness on Valentine's Day, 2016.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Consciousness on Valentine's Day, 2016.</p>]]></content:encoded>
+			<enclosure length="48642941" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Consciousness.mp3?dest-id=20319" />
+			<itunes:duration>50:32</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Consciousness on Valentine's Day, 2016.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Fear and Attachment</title>
+			<pubDate>Mon, 01 Feb 2016 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[4d67a3b2e195806a5456b8f7216b6849]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/fear-and-attachment]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Fear and Attachment at the beginning of 2016 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Fear and Attachment at the beginning of 2016 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="52502693" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Fear_and_Attachment.mp3?dest-id=20319" />
+			<itunes:duration>54:34</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Fear and Attachment at the beginning of 2016 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Doing Nothing</title>
+			<pubDate>Fri, 01 Jan 2016 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f58358e22de661756b1462257f88dd3d]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Doing_Nothing.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on a case koan about the life of the ancient master, Vasubandhu.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on a case koan about the life of the ancient master, Vasubandhu.</p>]]></content:encoded>
+			<enclosure length="47383855" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Doing_Nothing.mp3?dest-id=20319" />
+			<itunes:duration>49:14</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on a case koan about the life of the ancient master, Vasubandhu.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Immersion in Everyday Activity</title>
+			<pubDate>Tue, 01 Dec 2015 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[9546a1a4b5c8827a1fed600e7838d853]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Immersion_in_Everyday_Activity.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi gave this talk in November 2015 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi gave this talk in November 2015 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="51710384" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Immersion_in_Everyday_Activity.mp3?dest-id=20319" />
+			<itunes:duration>53:44</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi gave this talk in November 2015 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Habits</title>
+			<pubDate>Sun, 01 Nov 2015 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[2ba7cf6a8e38b224ccd010d80d793f1c]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/habits]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi gave this talk on Sunday October 18th at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi gave this talk on Sunday October 18th at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="48434911" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Habits.mp3?dest-id=20319" />
+			<itunes:duration>50:19</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi gave this talk on Sunday October 18th at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Displacement Activity</title>
+			<pubDate>Thu, 01 Oct 2015 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[edb35b7579b59642d8200c4cf0471cc3]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Displacement_Activity.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi gave this talk at the opening of the Fall Training Period at Yokoji Zen Mountain Center on Sunday September 20th, 2015.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi gave this talk at the opening of the Fall Training Period at Yokoji Zen Mountain Center on Sunday September 20th, 2015.</p>]]></content:encoded>
+			<enclosure length="52321348" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Displacement_Activity.mp3?dest-id=20319" />
+			<itunes:duration>54:22</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi gave this talk at the opening of the Fall Training Period at Yokoji Zen Mountain Center on Sunday September 20th, 2015.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Where are the Difficulties?</title>
+			<pubDate>Tue, 01 Sep 2015 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[fd60f94396e203b7074b793848f92f50]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/where-are-the-difficulties]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi gave this talk on Jizo Day, August 2015 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi gave this talk on Jizo Day, August 2015 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="43693315" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Where_are_the_difficulties_.mp3?dest-id=20319" />
+			<itunes:duration>45:23</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi gave this talk on Jizo Day, August 2015 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Dealing With Perceived Distractions</title>
+			<pubDate>Sat, 01 Aug 2015 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a0e2164d601c154bd6e39827b0085902]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/dealing-with-perceived-distractions]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi gave this talk in July, 2015 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi gave this talk in July, 2015 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="48551844" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Dealing_With_Perceived_Distractions.mp3?dest-id=20319" />
+			<itunes:duration>50:27</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi gave this talk in July, 2015 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Everything is Here</title>
+			<pubDate>Wed, 01 Jul 2015 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[78d725f4afb0256967018641e3503b45]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/everything-is-here]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on a koan from the Blue Cliff Record in this talk given in June, 2015 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on a koan from the Blue Cliff Record in this talk given in June, 2015 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="46155283" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Everything_is_here.mp3?dest-id=20319" />
+			<itunes:duration>47:57</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on a koan from the Blue Cliff Record in this talk given in June, 2015 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Realization in Daily Life</title>
+			<pubDate>Mon, 01 Jun 2015 07:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[71f934e119149134b9eb35e11bcadee9]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/realization-in-daily-life]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi gave this talk in May 2015 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi gave this talk in May 2015 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="42616683" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Realization_in_Daily_Life.mp3?dest-id=20319" />
+			<itunes:duration>44:16</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi gave this talk in May 2015 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Ungan Sweeps the Ground (2015)</title>
+			<pubDate>Fri, 01 May 2015 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[ae231e1338ae4230aca38ac7efd30297]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/ungan-sweeps-the-ground-2015]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p><span style="color: rgb(67, 59, 54); font-family: 'Open Sans', 'helvetica neue', helvetica, sans-serif; font-size: 16px; line-height: 24px;">Tenshin Roshi talks on case 21 of the Book of Equanimity, <em>Ungan Sweeps the Ground</em>. The talk was given on April 12th, 2015, at the end of the April sesshin at Yokoji.</span></p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on case 21 of the Book of Equanimity, <em>Ungan Sweeps the Ground</em>. The talk was given on April 12th, 2015, at the end of the April sesshin at Yokoji.</p>]]></content:encoded>
+			<enclosure length="43305984" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Ungan_Sweeps_the_Ground_2015.mp3?dest-id=20319" />
+			<itunes:duration>44:59</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on case 21 of the Book of Equanimity, Ungan Sweeps the Ground. The talk was given on April 12th, 2015, at the end of the April sesshin at Yokoji.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Joshu Investigates the Old Woman</title>
+			<pubDate>Wed, 01 Apr 2015 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a4f7337eaabc23017a56be4ae3175ea7]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/joshu-investigates-the-old-woman]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on case 31 of the <em>Gateless Gate</em>, "Joshu Investigates the Old Woman". This talk was given in March 2015 during a sesshin at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on case 31 of the <em>Gateless Gate</em>, "Joshu Investigates the Old Woman". This talk was given in March 2015 during a sesshin at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="44145405" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Joshu_Investigates_the_Old_Woman.mp3?dest-id=20319" />
+			<itunes:duration>45:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on case 31 of the Gateless Gate, "Joshu Investigates the Old Woman". This talk was given in March 2015 during a sesshin at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Roso Faces the Wall</title>
+			<pubDate>Sun, 01 Mar 2015 21:55:59 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[a569a7d88d2686a3694ccdba81d4a9d3]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/roso-faces-the-wall]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Case 23 of the Book or Equanimity, "Roso Faces the Wall".</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Case 23 of the Book or Equanimity, "Roso Faces the Wall".</p>]]></content:encoded>
+			<enclosure length="46695298" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Roso_Faces_the_Wall.mp3?dest-id=20319" />
+			<itunes:duration>48:31</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Case 23 of the Book or Equanimity, "Roso Faces the Wall".]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Gobbler's of Dregs</title>
+			<pubDate>Sun, 01 Feb 2015 09:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[93655792cdee73644ebc0efa87ab34c6]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Gobblers_of_Dregs_2015.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Case 11 of the Blue Cliff Record, Master Obaku's "Gobbler's of Dregs".</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Case 11 of the Blue Cliff Record, Master Obaku's "Gobbler's of Dregs".</p>]]></content:encoded>
+			<enclosure length="46962410" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Gobblers_of_Dregs_2015.mp3?dest-id=20319" />
+			<itunes:duration>48:48</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Case 11 of the Blue Cliff Record, Master Obaku's "Gobbler's of Dregs".]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Buddha's Enlightenment</title>
+			<pubDate>Thu, 01 Jan 2015 10:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[f3aae5f7bf70c10903d06df7ea73c306]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Buddhas_Enlightenment.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on the first case of the <em>Denkoroku</em>, or <em>The Record of the Transmission of the Light </em>in honor of Shakyamuni Buddha's enlightenment which is celebrated in our tradition on December 8th.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on the first case of the <em>Denkoroku</em>, or <em>The Record of the Transmission of the Light </em>in honor of Shakyamuni Buddha's enlightenment which is celebrated in our tradition on December 8th.</p>]]></content:encoded>
+			<enclosure length="52817754" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Buddhas_Enlightenment.mp3?dest-id=20319" />
+			<itunes:duration>54:53</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on the first case of the Denkoroku, or The Record of the Transmission of the Light in honor of Shakyamuni Buddha's enlightenment which is celebrated in our tradition on December 8th.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Mind is Buddha</title>
+			<pubDate>Mon, 01 Dec 2014 08:30:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[86546c3b6f2ec4d6bb3e49224e62f4a9]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/mind-is-buddha]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Case 30 of the Gateless Gate, "Mind is Buddha".</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Case 30 of the Gateless Gate, "Mind is Buddha".</p>]]></content:encoded>
+			<enclosure length="42219943" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Mind_is_Buddha.mp3?dest-id=20319" />
+			<itunes:duration>43:51</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Case 30 of the Gateless Gate, "Mind is Buddha".]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Wisdom and Functioning</title>
+			<pubDate>Sat, 01 Nov 2014 11:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c34838fc912efbb2d90ef08ede1161c5]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/yokoji/Wisdom_and_Application.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on Case 66 of the Book of Equanimity, "Kyuho's Head and Tail". The talk was given on October 19th, 2014 at Yokoji Zen Mountain Center.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on Case 66 of the Book of Equanimity, "Kyuho's Head and Tail". The talk was given on October 19th, 2014 at Yokoji Zen Mountain Center.</p>]]></content:encoded>
+			<enclosure length="48140923" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Wisdom_and_Application.mp3?dest-id=20319" />
+			<itunes:duration>50:01</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>talk,buddhism,zen,dharma,roshi,yokoji,tenshin</itunes:keywords>
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on Case 66 of the Book of Equanimity, "Kyuho's Head and Tail". The talk was given on October 19th, 2014 at Yokoji Zen Mountain Center.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>No Enlightenment</title>
+			<pubDate>Wed, 01 Oct 2014 17:01:42 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[24444b0d7e1874a606fab89eac58ecb1]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/no-enlightenment]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi gave this talk on Sunday September 14th at Yokoji Zen Mountain Center. Roshi brings up Case 62 from the Book of Equanimity, "Bako's No Enlightenment".</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi gave this talk on Sunday September 14th at Yokoji Zen Mountain Center. Roshi brings up Case 62 from the Book of Equanimity, "Bako's No Enlightenment".</p>]]></content:encoded>
+			<enclosure length="46247746" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/No_Enlightenment.mp3?dest-id=20319" />
+			<itunes:duration>48:03</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>talk,buddhism,zen,dharma,soto,roshi,yokoji,tenshin</itunes:keywords>
+			<itunes:subtitle><![CDATA[Tenshin Roshi gave this talk on Sunday September 14th at Yokoji Zen Mountain Center. Roshi brings up Case 62 from the Book of Equanimity, "Bako's No Enlightenment".]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Rakuho's Acquiescense</title>
+			<pubDate>Mon, 01 Sep 2014 16:32:11 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[7c7930c90e47218bd99af7fe415ee78e]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/rakuhos-acquiescense]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi talks on this <em>Rakuho's Acquiescence</em>, a "finishing koan" (a koan for refining understanding) from the Book of Equanimity.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi talks on this <em>Rakuho's Acquiescence</em>, a "finishing koan" (a koan for refining understanding) from the Book of Equanimity.</p>]]></content:encoded>
+			<enclosure length="53710024" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Rakuhos_Aquiescence_.mp3?dest-id=20319" />
+			<itunes:duration>55:49</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>talk,buddhism,zen,dharma,roshi,yokoji,tenshin</itunes:keywords>
+			<itunes:subtitle><![CDATA[Tenshin Roshi talks on this Rakuho's Acquiescence, a "finishing koan" (a koan for refining understanding) from the Book of Equanimity.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Independence</title>
+			<pubDate>Fri, 01 Aug 2014 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[c3fe37af96a77d61e674d1693f4e1032]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/independence]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Given a few days after Independence day, Tenshin Roshi talks on the subject of independence, using the koan "Zuigen's Master" from the Gateless Gate as a starting point.</p>]]></description>
+			<content:encoded><![CDATA[<p>Given a few days after Independence day, Tenshin Roshi talks on the subject of independence, using the koan "Zuigen's Master" from the Gateless Gate as a starting point.</p>]]></content:encoded>
+			<enclosure length="52596154" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Independence.mp3?dest-id=20319" />
+			<itunes:duration>54:40</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords>talk,buddhism,zen,dharma,roshi,yokoji,tenshin</itunes:keywords>
+			<itunes:subtitle><![CDATA[Given a few days after Independence day, Tenshin Roshi talks on the subject of independence, using the koan "Zuigen's Master" from the Gateless Gate as a starting point.]]></itunes:subtitle>
+					</item>
+		<item>
+			<title>Fast Horse, Slow Horse</title>
+			<pubDate>Tue, 01 Jul 2014 08:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[948ae00b017f0a7bee0f14821fe4b65c]]></guid>
+			<link><![CDATA[http://yokoji.libsyn.com/fast-horse-slow-horse]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/1/6/6/a/166ad056c284bcb9/podcast-logo-1400.jpg" />
+			<description><![CDATA[<p>Tenshin Roshi brings up case 65 from the Blue Cliff Record, "A Non-Buddhist Questions the Buddha". The talk brings up the question of how important is 'religious' activity in comparison to insight.</p>]]></description>
+			<content:encoded><![CDATA[<p>Tenshin Roshi brings up case 65 from the Blue Cliff Record, "A Non-Buddhist Questions the Buddha". The talk brings up the question of how important is 'religious' activity in comparison to insight.</p>]]></content:encoded>
+			<enclosure length="45667282" type="audio/mpeg" url="http://traffic.libsyn.com/yokoji/Fast20Horse2C20Slow20Horse.mp3?dest-id=20319" />
+			<itunes:duration>47:26</itunes:duration>
+			<itunes:explicit>clean</itunes:explicit>
+			<itunes:keywords />
+			<itunes:subtitle><![CDATA[Tenshin Roshi brings up case 65 from the Blue Cliff Record, "A Non-Buddhist Questions the Buddha". The talk brings up the question of how important is 'religious' activity in comparison to insight.]]></itunes:subtitle>
+					</item>
+	</channel>
+</rss>
