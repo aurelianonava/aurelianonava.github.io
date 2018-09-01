@@ -212,12 +212,12 @@
     
     <!-- <enclosure url="https://aurelianonava.github.io/2018/06/14/Anthony-Bourdain-and-Ourselves/0620-2018.m4a" length="42000000" type="audio/mpeg"/> -->
 
-    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-05/hierarchy-jp.mp3" length="36000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-05/hierarchy-jp.mp3" length="35000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
         https://aurelianonava.github.io/pc-channel/episode-05/hierarchy-jp.mp3
     </guid>
-    <itunes:duration>31:24</itunes:duration>
+    <itunes:duration>35:00</itunes:duration>
     <itunes:summary>
         Moving towards what we value creates competency hierarchies, meaning, and purpose, but when value and desire get mixed up, we may end up with a different enchilada.
     </itunes:summary>
