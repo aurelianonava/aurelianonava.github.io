@@ -262,6 +262,40 @@
 
 </item>
 
+
+<!-- Individual episode content -->
+<item>
+    <title>Spiritual Materialism and The Lord of Form.</title>
+    <link>
+        https://aurelianonava.github.io/vctr/episode-06/doubt.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 2 September 2018 14:30:00 PST</pubDate>
+    <description>
+        The nurotic pursuit of physical comfort, security, and pleasure.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-07/lord-of-form.mp3" length="16000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/vctr/episode-07/lord-of-form.mp3
+    </guid>
+    <itunes:duration>15:14</itunes:duration>
+    <itunes:summary>
+        The nurotic pursuit of physical comfort, security, and pleasure.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,lord of form,spiritual materialism,three lords of materialism,ego spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
+
     
     </channel>
 </rss>
