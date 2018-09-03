@@ -278,12 +278,12 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-07/lord-of-form.mp3" length="16000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-07/lord-of-form.mp3" length="15000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
         https://aurelianonava.github.io/vctr/episode-07/lord-of-form.mp3
     </guid>
-    <itunes:duration>15:14</itunes:duration>
+    <itunes:duration>14:40</itunes:duration>
     <itunes:summary>
         The nurotic pursuit of physical comfort, security, and pleasure.
     </itunes:summary>
