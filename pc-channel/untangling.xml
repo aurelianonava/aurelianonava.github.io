@@ -15,7 +15,7 @@
         <description>
             This spiritual thing can get kind of trippy and wierd. Lots of nonesense and snake oil out there and if your're not cautious you might end up buying more than you afford. I intend to Untagle the spiritual path for you by giving it to you straight, as it should be, on the rocks.
         </description>
-        <itunes:type>serial</itunes:type>
+        <itunes:type>episodic</itunes:type>
         <itunes:owner>
             <itunes:name>Aureliano Nava</itunes:name>
             <itunes:email>trainmind@icloud.com</itunes:email>
@@ -34,7 +34,39 @@
         <!-- Individual episode content -->
         <item>
 
-        <itunes:episodeType>trailer</itunes:episodeType>
+        <!-- <itunes:episodeType>trailer</itunes:episodeType> -->
+        <itunes:title>Anthony Bourdain and Ourselves</itunes:title>
+        <title>Anthony Bourdain and Ourselves</title>
+        <itunes:author>Aureliano Nava</itunes:author>
+        
+        <itunes:subtitle>Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.</itunes:subtitle>
+        
+        <itunes:summary>Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.</itunes:summary>
+        
+        <description>
+            Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.
+        </description>
+
+        <content:encoded><![CDATA[Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice. Listen on <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.</content:encoded>
+
+        <itunes:keywords>
+            Depression,Meditation,Buddhism,Anthony Bourdain,Suicide,Secular Dharma,Secular Buddhism,mental health,well-being
+        </itunes:keywords>
+
+        <enclosure length="33000000" type="audio/mpeg" url="https://aurelianonava.github.io/pc-channel/episode-02/freedom.mp3"/>
+        <guid>https://aurelianonava.github.io/pc-channel/episode-02/freedom.mp3</guid>
+        <pubDate>Fri, 13 July 2018 22:00:00 PST</pubDate>
+        <itunes:duration>49:49</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        
+
+        </item>
+
+
+        <!-- Individual episode content -->
+        <item>
+
+        <!-- <itunes:episodeType>trailer</itunes:episodeType> -->
         <itunes:title>Anthony Bourdain and Ourselves</itunes:title>
         <title>Anthony Bourdain and Ourselves</title>
         <itunes:author>Aureliano Nava</itunes:author>
