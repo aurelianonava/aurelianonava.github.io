@@ -1,63 +1,71 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" >
     <channel>
       <!-- The name of the Podcast -->
         <title>Aureliano Untangling</title>
         <link>https://aurelianonava.github.io/</link>
         <language>en-us</language>
-        <copyright>Aureliano Nava 2018</copyright>
-        <image>
-            <url>https://aurelianonava.github.io/pc-channel/images/aureliano.jpg</url>
-            <title>Doggie Looking at You</title>
-            <link>https://aurelianonava.github.io</link>
-        </image>
-        <itunes:owner>
-            <itunes:name>Aureliano Nava</itunes:name>
-            <itunes:email>trainmind@icloud.com</itunes:email>
-        </itunes:owner>
+        <copyright>&#8471; &amp; &#xA9; 2018 Aureliano Nava</copyright>
+        <itunes:subtitle>Secular Dharma</itunes:subtitle>
         <itunes:author>Aureliano Nava</itunes:author>
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Buddhism" />
-        </itunes:category>
-        <itunes:keywords>
-            religion,spirituality,health,society,science,medicine,culture,meditation,mindfulness,buddhism,dharama,secular dharma,secular spirituality,secular buddhism,non-theism,christianity
-        </itunes:keywords>
-        <itunes:explicit>No</itunes:explicit>
-        <itunes:image href="http://aurelianonava.github.io/pc-channel/images/aureliano.jpg"/>
-        <atom:link href="https://aurelianonava.github.io/pc-channel/mycasts1.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Fri, 22 May 2018 00:00:00 PST</pubDate>
-        
-
-        <!-- A Brief Description of your site here -->
-        <description>
-            What does secular spirituality look like? Can we keep the best of traditions such as Buddhism, deep in knowledge and wisdom, fitting easily within a secular framework, while not adopting the religious and cultural aspects? And if it's possible, what do we end up with and what does it impact?
-        </description>
         <itunes:summary>
             Secular Dharma and spritituality, meditation, mental health, society, lots on suffering, more on suffering, end of suffering, all things human and dog.  
         </itunes:summary>
-        
-        
-        
-        <!-- <atom:link href="http://streaming.osu.edu/podcast/Example/podcast.xml" rel="self" type="application/rss+xml"/> -->
-        <!-- Date you published the site -->
-        <lastBuildDate>Fri, 22 May 2018 00:00:00 PST</lastBuildDate>
-        
-        <!--  -->
-        
-        <itunes:subtitle>Secular Dharma</itunes:subtitle>
+        <description>
+            This spiritual thing can get kind of trippy and wierd. Lots of nonesense and snake oil out there and if your're not cautious you might end up buying more than you afford. I intend to Untagle the spiritual path for you by giving it to you straight, as it should be, on the rocks.
+        </description>
+        <itunes:type>serial</itunes:type>
         <itunes:owner>
             <itunes:name>Aureliano Nava</itunes:name>
             <itunes:email>trainmind@icloud.com</itunes:email>
         </itunes:owner>
+        <itunes:image
+         href="https://aurelianonava.github.io/pc-channel/images/aureliano.jpg"/>
+        
+        <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+        </itunes:category>
+        
+        <itunes:explicit>No</itunes:explicit>
+        
+
+
+        <!-- Individual episode content -->
+        <item>
+
+        <itunes:episodeType>trailer</itunes:episodeType>
+        <itunes:title>Anthony Bourdain and Ourselves</itunes:title>
+        <title>Anthony Bourdain and Ourselves</title>
         <itunes:author>Aureliano Nava</itunes:author>
         
+        <itunes:subtitle>Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.</itunes:subtitle>
         
+        <itunes:summary>Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.</itunes:summary>
         
-        <!-- <rawvoice:rating>TV-G</rawvoice:rating> -->
-        <!-- <rawvoice:location>Downey, California</rawvoice:location> -->
-        <!-- <rawvoice:frequency>Weekly</rawvoice:frequency> -->
-        <itunes:category text="Religion"/>
-        <pubDate>Fri, 22 June 2018 00:00:00 PST</pubDate>
+        <description>
+            Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice.
+        </description>
+
+        <content:encoded><![CDATA[Comments on Anthony Bourdain, suicide and depression, secular Dharma/Buddhism, and meditation practice. Listen on <a href="https://www.apple.com/itunes/podcasts/">Apple Podcasts</a>]]>.</content:encoded>
+
+        <itunes:keywords>
+            Depression,Meditation,Buddhism,Anthony Bourdain,Suicide,Secular Dharma,Secular Buddhism,mental health,well-being
+        </itunes:keywords>
+
+        <enclosure length="33000000" type="audio/mpeg" url="https://aurelianonava.github.io/pc-channel/episode-02/freedom.mp3"/>
+        <guid>https://aurelianonava.github.io/pc-channel/episode-02/freedom.mp3</guid>
+        <pubDate>Fri, 13 July 2018 22:00:00 PST</pubDate>
+        <itunes:duration>49:49</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
         
+
+        </item>
+        
+
+
+
+
+
 
 <!-- Individual episode content -->
 <item>
