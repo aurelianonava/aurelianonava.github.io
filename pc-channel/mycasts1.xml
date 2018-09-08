@@ -20,6 +20,8 @@
             <itunes:name>Aureliano Nava</itunes:name>
             <itunes:email>trainmind@icloud.com</itunes:email>
         </itunes:owner>
+        <atom:link href="https://aurelianonava.github.io/pc-channel/mycasts1.xml" rel="self" type="application/rss+xml" />
+        <pubDate>Fri, 13 July 2018 22:00:00 PST</pubDate>
         <itunes:image
          href="https://aurelianonava.github.io/pc-channel/images/aureliano.jpg"/>
         
@@ -209,16 +211,16 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-06/tlm-form.mp3" length="18000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-07/tlm-form.mp3" length="18000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
-        https://aurelianonava.github.io/pc-channel/episode-06/tlm-form.mp3
+        https://aurelianonava.github.io/pc-channel/episode-07/tlm-form.mp3
     </guid>
     <itunes:duration>15:16</itunes:duration>
     <itunes:summary>
         The nurotic pursuit of physical comfort, security, and pleasure.
     </itunes:summary>
-    <itunes:image href="https://aurelianonava.github.io/pc-channel/images/aureliano.jpg"/>
+    <itunes:image href="https://aurelianonava.github.io/vctr/ctr-2915x2998.jpg"/>
     
     <itunes:keywords>
         chogyam trungpa,Buddhism,meditation,lord of form,spiritual materialism,three lords of materialism,ego spirituality,materialism
