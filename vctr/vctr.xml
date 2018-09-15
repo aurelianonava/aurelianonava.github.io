@@ -346,12 +346,12 @@
         <itunes:category text="Buddhism" />
     </itunes:category>
     
-    <enclosure url="https://aurelianonava.github.io/vctr/episode-09/lord-of-mind.mp3" length="33000000" type="audio/mpeg"/>
+    <enclosure url="https://aurelianonava.github.io/vctr/episode-09/lord-of-mind.mp3" length="14000000" type="audio/mpeg"/>
     
     <guid isPermalink="true">
         https://aurelianonava.github.io/vctr/episode-08/lord-of-mind.mp3
     </guid>
-    <itunes:duration>29:13</itunes:duration>
+    <itunes:duration>13:00</itunes:duration>
     <itunes:summary>
         The effort of consciousness to maintain awareness of itself.
     </itunes:summary>
