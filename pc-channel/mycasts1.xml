@@ -10,10 +10,10 @@
         <itunes:subtitle>Secular Dharma</itunes:subtitle>
         <itunes:author>Aureliano Nava</itunes:author>
         <itunes:summary>
-            Secular Dharma and spritituality, meditation, mental health, society, lots on suffering, more on suffering, end of suffering, all things human and dog.  
+            Secular spiritituality, secular dharma, meaning, purpose, meditation, mental health, society, lots on suffering, more on suffering, end of suffering, all things human and dog.  
         </itunes:summary>
         <description>
-            This spiritual thing can get kind of trippy and wierd. Lots of nonesense and snake oil out there and if your're not cautious you might end up buying more than you afford. I intend to Untagle the spiritual path for you by giving it to you straight, as it should be, on the rocks.
+            Discovering meaning and purpose in life can get trippy and wierd these days. Lots of nonesense and snake oil out there and if your're not cautious you might end up buying more than you can afford. I intend to Untagle what it means to live a life of meaning and purpose without having to accept dogmas and beliefs that can't be supported.
         </description>
         <itunes:type>episodic</itunes:type>
         <itunes:owner>
@@ -27,6 +27,10 @@
         
         <itunes:category text="Religion &amp; Spirituality">
         <itunes:category text="Buddhism" />
+        </itunes:category>
+
+        <itunes:category text="Science &amp; Medicine">
+        <itunes:category text="Social Sciences" />
         </itunes:category>
         
         <itunes:explicit>No</itunes:explicit>
