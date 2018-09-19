@@ -32,6 +32,10 @@
         <itunes:category text="Science &amp; Medicine">
         <itunes:category text="Social Sciences" />
         </itunes:category>
+
+        <itunes:category text="Health">
+        <itunes:category text="Self-Help" />
+        </itunes:category>
         
         <itunes:explicit>No</itunes:explicit>
         
