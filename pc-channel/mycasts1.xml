@@ -36,6 +36,10 @@
         <itunes:category text="Health">
         <itunes:category text="Self-Help" />
         </itunes:category>
+
+        <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Christianity" />
+        </itunes:category>
         
         <itunes:explicit>No</itunes:explicit>
         
