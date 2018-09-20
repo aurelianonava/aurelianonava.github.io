@@ -40,6 +40,10 @@
         <itunes:category text="Religion &amp; Spirituality">
         <itunes:category text="Christianity" />
         </itunes:category>
+
+        <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Other" />
+        </itunes:category>
         
         <itunes:explicit>No</itunes:explicit>
         
