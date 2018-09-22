@@ -320,6 +320,40 @@
     <itunes:explicit>no</itunes:explicit>
 
 </item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Disappointing The Demons.</title>
+    <link>
+        https://aurelianonava.github.io/pc-channel/episode-09/disappointment.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 22 September 2018 05:00:00 PST</pubDate>
+    <description>
+        How disappointment wears down spiritual ambition.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-09/disappointment.mp3" length="20000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/pc-channel/episode-09/disappointment.mp3
+    </guid>
+    <itunes:duration>28:23</itunes:duration>
+    <itunes:summary>
+        How disappointment wears down spiritual ambition.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/pc-channel/images/aureliano.jpg"/>
+    
+    <itunes:keywords>
+        chogyam trungpa,Buddhism,meditation,disappointment,spiritual materialism,spiritual ambition,ego spirituality
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
     
     </channel>
 </rss>
