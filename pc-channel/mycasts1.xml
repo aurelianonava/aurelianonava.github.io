@@ -354,6 +354,40 @@
     <itunes:explicit>no</itunes:explicit>
 
 </item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Schooling Jordan Peterson on Buddhist Compassion.</title>
+    <link>
+        https://aurelianonava.github.io/pc-channel/episode-10/jp-buddhist-compassion.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sat, 28 September 2018 07:00:00 PST</pubDate>
+    <description>
+        Jordan Peteson's view of Buddhist compassion is wacked.   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+    
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-10/jp-buddhist-compassion.mp3" length="11000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/pc-channel/episode-10/jp-buddhist-compassion.mp3
+    </guid>
+    <itunes:duration>11:00</itunes:duration>
+    <itunes:summary>
+        Jordan Peteson's view of Buddhist compassion is wacked.
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/pc-channel/images/aureliano.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,Jordan Peterson,Christian Logos,Buddist Compassion,transcendent ethic,new atheists,Sam Harris
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
     
     </channel>
 </rss>
