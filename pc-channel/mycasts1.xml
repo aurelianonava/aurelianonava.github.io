@@ -474,6 +474,66 @@
     <itunes:explicit>no</itunes:explicit>
 
 </item>
+
+
+<!-- Individual episode content -->
+<item>
+    <title>Why did Sam Harris choose to Smack Talk and misrepresent Chogyam Trungpa?</title>
+    <link>
+        https://aurelianonava.github.io/pc-channel/episode-12/sam-harris-smacks-vctr.mp3
+    </link>
+    <itunes:author>Aureliano Nava</itunes:author>
+    <pubDate>Sun, 6 Jan 2019 11:30:00 PST</pubDate>
+    <description>
+        Sam Harris, who is so sensitive to being misinterpreted, does the same to Chogyam Trungpa, as he attempts to distance himself from the 'bad gurus.'   
+    </description>
+    <itunes:category text="Religion &amp; Spirituality">
+        <itunes:category text="Buddhism" />
+    </itunes:category>
+
+    <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Philosophy" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Christianity" />
+    </itunes:category>
+
+    <itunes:category text="Religion &amp; Spirituality">
+    <itunes:category text="Other" />
+    </itunes:category>
+
+    <itunes:category text="Science &amp; Medicine">
+    <itunes:category text="Social Sciences" />
+    </itunes:category>
+
+    <itunes:category text="Health">
+    <itunes:category text="Self-Help" />
+    </itunes:category>
+
+    <itunes:category text="Education">
+    <itunes:category text="Training" />
+    </itunes:category>
+
+
+    
+    <enclosure url="https://aurelianonava.github.io/pc-channel/episode-12/sam-harris-smacks-vctr.mp3" length="19000000" type="audio/mpeg"/>
+    
+    <guid isPermalink="true">
+        https://aurelianonava.github.io/pc-channel/episode-12/sam-harris-smacks-vctr.mp3
+    </guid>
+    <itunes:duration>26:00</itunes:duration>
+    <itunes:summary>
+        Sam Harris, who is so sensitive to being misinterpreted, does the same to Chogyam Trungpa, as he attempts to distance himself from the 'bad gurus.'
+    </itunes:summary>
+    <itunes:image href="https://aurelianonava.github.io/pc-channel/images/aureliano.jpg"/>
+    
+    <itunes:keywords>
+        Buddhism,meditation,Sam Harris,Waking Up: A Guide to Spirituality Without Religion,Chogyam Trungpa
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+</item>
     
     </channel>
 </rss>
